@@ -1,0 +1,1251 @@
+season;player_name;age;market_value[EUR];team_left;team_joined;transfer_fee[EUR]
+18/19;Kylian Mbappe;19;120000000;Monaco;Paris SG;180000000
+18/19;Cristiano Ronaldo;33;100000000;Real Madrid;Juventus;117000000
+18/19;Kepa Arrizabalaga;23;20000000;Athletic;Chelsea;80000000
+18/19;Thomas Lemar;22;65000000;Monaco;Atletico Madrid;72000000
+18/19;Riyad Mahrez;27;50000000;Leicester;Man City;67800000
+18/19;Christian Pulisic;20;50000000;Bor. Dortmund;Chelsea;64000000
+18/19;Alisson;25;60000000;AS Roma;Liverpool;62500000
+18/19;Naby Keita;23;65000000;RB Leipzig;Liverpool;60000000
+18/19;Fred;25;32000000;Shakhtar D.;Man Utd;59000000
+18/19;Jorginho;26;50000000;SSC Napoli;Chelsea;57000000
+18/19;Fabinho;24;45000000;Monaco;Liverpool;45000000
+18/19;Vinicius Junior;18;35000000;Flamengo;Real Madrid;45000000
+18/19;Paulinho;30;38000000;Barcelona;GZ Evergrande;42000000
+18/19;Patrik Schick;22;20000000;Sampdoria;AS Roma;42000000
+18/19;Malcom;21;45000000;G. Bordeaux;Barcelona;41000000
+18/19;Joao Cancelo;24;35000000;Valencia;Juventus;40400000
+18/19;Douglas Costa;27;55000000;Bayern Munich;Juventus;40000000
+18/19;Goncalo Guedes;21;40000000;Paris SG;Valencia;40000000
+18/19;Leandro Paredes;24;25000000;Zenit S-Pb;Paris SG;40000000
+18/19;Richarlison;21;25000000;Watford;Everton;39200000
+18/19;Lucas Paqueta;21;15000000;Flamengo;AC Milan;38400000
+18/19;Radja Nainggolan;30;45000000;AS Roma;Inter;38000000
+18/19;Felipe Anderson;25;30000000;Lazio;West Ham;38000000
+18/19;Mattia Caldara;24;25000000;Juventus;AC Milan;37740000
+18/19;Thilo Kehrer;21;18000000;FC Schalke 04;Paris SG;37000000
+18/19;Clement Lenglet;23;36000000;Sevilla FC;Barcelona;35900000
+18/19;Thibaut Courtois;26;65000000;Chelsea;Real Madrid;35000000
+18/19;Leonardo Bonucci;31;35000000;AC Milan;Juventus;35000000
+18/19;Shoya Nakajima;24;18000000;Portimonense;Al-Duhail SC;35000000
+18/19;Krzysztof Piatek;23;15000000;Genoa;AC Milan;35000000
+18/19;Alvaro Odriozola;22;25000000;Real Sociedad;Real Madrid;32000000
+18/19;Arthur Melo;21;30000000;Gremio;Barcelona;31000000
+18/19;Jefferson Lerma;23;2000000;Levante;Bournemouth;30500000
+18/19;Yerry Mina;23;20000000;Barcelona;Everton;30250000
+18/19;Jean Michael Seri;27;30000000;OGC Nice;Fulham;30000000
+18/19;Aleksandr Golovin;22;25000000;CSKA Moscow;Monaco;30000000
+18/19;Fabian Ruiz;22;20000000;Real Betis;SSC Napoli;30000000
+18/19;Anthony Modeste;30;16000000;1. FC Koln;TJ Tianhai;29000000
+18/19;Lucas Torreira;22;30000000;Sampdoria;Arsenal;28650000
+18/19;Abdou Diallo;22;12000000;1.FSV Mainz 05;Bor. Dortmund;28000000
+18/19;Steven Nzonzi;29;30000000;Sevilla FC;AS Roma;26650000
+18/19;Kevin Strootman;28;28000000;AS Roma;Marseille;25000000
+18/19;Lautaro Martinez;20;25000000;Racing Club;Inter;25000000
+18/19;Issa Diop;21;22000000;Toulouse;West Ham;25000000
+18/19;Bernd Leno;26;20000000;B. Leverkusen;Arsenal;25000000
+18/19;Jannik Vestergaard;25;14000000;Bor. M'gladbach;Southampton;25000000
+18/19;James Maddison;21;10000000;Norwich;Leicester;25000000
+18/19;Frank Anguissa;22;18000000;Marseille;Fulham;24850000
+18/19;Javier Pastore;29;15000000;Paris SG;AS Roma;24700000
+18/19;Aleksandar Mitrovic;23;15000000;Newcastle;Fulham;24700000
+18/19;Simone Verdi;25;25000000;Bologna;SSC Napoli;24500000
+18/19;Yuri Berchiche;28;17000000;Paris SG;Athletic;24000000
+18/19;Miguel Almiron;24;15000000;Atlanta;Newcastle;24000000
+18/19;Alassane Plea;25;18000000;OGC Nice;Bor. M'gladbach;23000000
+18/19;Nikola Kalinic;30;14000000;Fiorentina;AC Milan;22500000
+18/19;Gelson Martins;23;35000000;Sporting CP;Atletico Madrid;22000000
+18/19;Geoffrey Kondogbia;25;30000000;Inter;Valencia;22000000
+18/19;Ricardo Pereira;24;20000000;FC Porto;Leicester;22000000
+18/19;Diogo Dalot;19;15000000;FC Porto;Man Utd;22000000
+18/19;Moussa Dembele;22;7000000;Celtic;Olympique Lyon;22000000
+18/19;Mariano Diaz;25;22000000;Olympique Lyon;Real Madrid;21500000
+18/19;Samu Castillejo;23;15000000;Villarreal;AC Milan;21300000
+18/19;Dominic Solanke;21;10000000;Liverpool;Bournemouth;21200000
+18/19;Caglar Soyuncu;22;18000000;SC Freiburg;Leicester;21100000
+18/19;Quincy Promes;26;24000000;Spartak Moscow;Sevilla FC;21000000
+18/19;Jonny Otto;24;12000000;Atletico Madrid;Wolves;21000000
+18/19;Lucas Digne;25;15000000;Barcelona;Everton;20200000
+18/19;Marek Hamsik;31;30000000;SSC Napoli;DL Yifang;20000000
+18/19;Rodri;22;25000000;Villarreal;Atletico Madrid;20000000
+18/19;Andriy Yarmolenko;28;23000000;Bor. Dortmund;West Ham;20000000
+18/19;Axel Witsel;29;20000000;TJ Tianhai;Bor. Dortmund;20000000
+18/19;Gerard Moreno;26;20000000;Espanyol;Villarreal;20000000
+18/19;Thomas Delaney;26;12000000;Werder Bremen;Bor. Dortmund;20000000
+18/19;Benjamin Henrichs;21;12000000;B. Leverkusen;Monaco;20000000
+18/19;Terence Kongolo;24;10000000;Monaco;Huddersfield;20000000
+18/19;Rolando Mandragora;21;10000000;Juventus;Udinese Calcio;20000000
+18/19;Adama Traore;22;8000000;Middlesbrough;Wolves;20000000
+18/19;Willem Geubbels;16;6000000;Olympique Lyon;Monaco;20000000
+18/19;Talisca;24;25000000;Benfica;GZ Evergrande;19200000
+18/19;Amadou Haidara;20;20000000;RB Salzburg;RB Leipzig;19000000
+18/19;Diego Laxalt;25;18000000;Genoa;AC Milan;19000000
+18/19;Alireza Jahanbakhsh;24;18000000;AZ Alkmaar;Brighton;19000000
+18/19;Duje Caleta-Car;21;10000000;RB Salzburg;Marseille;19000000
+18/19;Paulinho;18;25000000;Vasco da Gama;B. Leverkusen;18500000
+18/19;Duvan Zapata;27;20000000;SSC Napoli;Sampdoria;18500000
+18/19;Alvaro Morata;26;50000000;Chelsea;Atletico Madrid;18000000
+18/19;Arturo Vidal;31;35000000;Bayern Munich;Barcelona;18000000
+18/19;Karl Toko Ekambi;25;18000000;Angers SCO;Villarreal;18000000
+18/19;Rui Patricio;30;16000000;Sporting CP;Wolves;18000000
+18/19;Mohamed Elyounoussi;23;8500000;FC Basel;Southampton;18000000
+18/19;Joaquin Correa;23;10000000;Sevilla FC;Lazio;17850000
+18/19;Justin Kluivert;19;15000000;Ajax;AS Roma;17250000
+18/19;Brahim Diaz;19;5000000;Man City;Real Madrid;17000000
+18/19;Ben Gibson;25;10000000;Middlesbrough;Burnley;16900000
+18/19;Alfie Mawson;24;15000000;Swansea;Fulham;16850000
+18/19;Yves Bissouma;21;8000000;LOSC Lille;Brighton;16800000
+18/19;Ahmed Musa;25;15000000;Leicester;Al-Nassr FC;16500000
+18/19;William Carvalho;26;25000000;Sporting CP;Real Betis;16000000
+18/19;Sokratis Papastathopoulos;30;20000000;Bor. Dortmund;Arsenal;16000000
+18/19;Kevin Gameiro;31;20000000;Atletico Madrid;Valencia;16000000
+18/19;Daley Blind;28;18000000;Man Utd;Ajax;16000000
+18/19;Sebastian Rudy;28;15000000;Bayern Munich;FC Schalke 04;16000000
+18/19;Nordi Mukiele;20;14000000;Montpellier;RB Leipzig;16000000
+18/19;Leonardo Balerdi;19;2500000;Boca Juniors;Bor. Dortmund;15500000
+18/19;Wilmar Barrios;25;12000000;Boca Juniors;Zenit S-Pb;15000000
+18/19;Gregoire Defrel;27;10000000;Sassuolo;AS Roma;15000000
+18/19;Mouctar Diakhaby;21;10000000;Olympique Lyon;Valencia;15000000
+18/19;Giorgian de Arrascaeta;24;9000000;Cruzeiro;Flamengo;15000000
+18/19;Joao Carvalho;21;2500000;Benfica;Nottm Forest;15000000
+18/19;Diego Rico;25;2500000;CD Leganes;Bournemouth;15000000
+18/19;Matheus Cunha;19;1500000;FC Sion;RB Leipzig;15000000
+18/19;Tete;19;;Gremio;Shakhtar D.;15000000
+18/19;Roger Martinez;24;2500000;JS Suning;Villarreal;14900000
+18/19;Xherdan Shaqiri;26;18000000;Stoke City;Liverpool;14700000
+18/19;Pity Martinez;25;20000000;River Plate;Atlanta;14500000
+18/19;Nikola Kalinic;30;14000000;AC Milan;Atletico Madrid;14500000
+18/19;Filip Benkovic;21;11000000;Dinamo Zagreb;Leicester;14500000
+18/19;Rodolfo Pizarro;24;5500000;Chivas;Monterrey;14500000
+18/19;Ibrahim Amadou;25;3500000;LOSC Lille;Sevilla FC;14400000
+18/19;Mattia Perin;25;16000000;Genoa;Juventus;14200000
+18/19;Duvan Zapata;27;20000000;Sampdoria;Atalanta BC;14000000
+18/19;Diogo Jota;21;12000000;Atletico Madrid;Wolves;14000000
+18/19;Alphonso Davies;18;10000000;Vancouver;Bayern Munich;14000000
+18/19;Rachid Ghezzal;26;4000000;Monaco;Leicester;14000000
+18/19;Jean-Eudes Aholou;24;3000000;R. Strasbourg;Monaco;14000000
+18/19;Danny Ward;25;2500000;Liverpool;Leicester;14000000
+18/19;Diego Lainez;18;1500000;America;Real Betis;14000000
+18/19;Dusan Tadic;29;15000000;Southampton;Ajax;13700000
+18/19;Chris Mepham;21;8000000;Brentford;Bournemouth;13600000
+18/19;Joris Gnagnon;21;15000000;Rennes;Sevilla FC;13500000
+18/19;Davy Klaassen;25;15000000;Everton;Werder Bremen;13500000
+18/19;Benik Afobe;25;10000000;Wolves;Stoke City;13500000
+18/19;Maximiliano Meza;26;14000000;Independiente;Monterrey;13150000
+18/19;Gerard Deulofeu;24;14000000;Barcelona;Watford;13000000
+18/19;Mbaye Diagne;27;5500000;Kasimpasa;Galatasaray;13000000
+18/19;Matej Vydra;26;8000000;Derby;Burnley;12200000
+18/19;Jeison Murillo;26;15000000;Inter;Valencia;12000000
+18/19;Nacer Chadli;29;15000000;West Brom;Monaco;12000000
+18/19;Mitchell Weiser;24;12000000;Hertha BSC;B. Leverkusen;12000000
+18/19;Mikel Merino;22;12000000;Newcastle;Real Sociedad;12000000
+18/19;M'Baye Niang;23;10000000;AC Milan;Torino;12000000
+18/19;Francesco Acerbi;30;10000000;Sassuolo;Lazio;12000000
+18/19;Marlon;22;10000000;Barcelona;Sassuolo;12000000
+18/19;Sardar Azmoun;24;9500000;Rubin Kazan;Zenit S-Pb;12000000
+18/19;Souza;29;9000000;Fenerbahce;Al-Ahli SFC;12000000
+18/19;Vitinho;24;8000000;CSKA Moscow;Flamengo;12000000
+18/19;Kevin Malcuit;27;7500000;LOSC Lille;SSC Napoli;12000000
+18/19;Nemanja Radonjic;22;6000000;Red Star;Marseille;12000000
+18/19;Willy Boly;27;5000000;FC Porto;Wolves;12000000
+18/19;Marcelo Saracchi;20;4500000;River Plate;RB Leipzig;12000000
+18/19;Emerson Royal;20;50000;Atletico-MG;Barcelona;12000000
+18/19;Manolo Gabbiadini;27;10000000;Southampton;Sampdoria;11900000
+18/19;Soualiho Meite;24;8000000;Monaco;Torino;11500000
+18/19;Benik Afobe;25;10000000;Bournemouth;Wolves;11400000
+18/19;Jonathan Rodriguez;25;3500000;Santos Laguna;CD Cruz Azul;11400000
+18/19;Josh Murphy;23;1500000;Norwich;Cardiff;11400000
+18/19;Bobby De Cordova-Reid;25;3000000;Bristol City;Cardiff;11350000
+18/19;David Brooks;20;5000000;Sheff Utd;Bournemouth;11300000
+18/19;Angus Gunn;22;2000000;Man City;Southampton;11300000
+18/19;Nicolas Gonzalez;20;5000000;Argentinos Jrs.;VfB Stuttgart;11260000
+18/19;Tom Ince;26;8000000;Huddersfield;Stoke City;11200000
+18/19;Santiago Arias;26;18000000;PSV Eindhoven;Atletico Madrid;11000000
+18/19;Suat Serdar;21;7500000;1.FSV Mainz 05;FC Schalke 04;11000000
+18/19;Gianluca Lapadula;28;7000000;AC Milan;Genoa;11000000
+18/19;Fode Ballo-Toure;22;7000000;LOSC Lille;Monaco;11000000
+18/19;Ozan Kabak;18;6500000;Galatasaray;VfB Stuttgart;11000000
+18/19;Emmanuel Boateng;22;3000000;Levante;DL Yifang;11000000
+18/19;Cheikhou Kouyate;28;12000000;West Ham;Crystal Palace;10700000
+18/19;Armando Izzo;26;8500000;Genoa;Torino;10700000
+18/19;Yoshinori Muto;26;6000000;1.FSV Mainz 05;Newcastle;10700000
+18/19;Victor Davila;21;3500000;Necaxa;Pachuca;10600000
+18/19;Orbelin Pineda;22;5000000;Chivas;CD Cruz Azul;10560000
+18/19;Giuliano;28;12000000;Fenerbahce;Al-Nassr FC;10500000
+18/19;Valentino Lazaro;22;9000000;RB Salzburg;Hertha BSC;10500000
+18/19;Wout Weghorst;25;7000000;AZ Alkmaar;VfL Wolfsburg;10500000
+18/19;Odsonne Edouard;20;1500000;Paris SG;Celtic;10300000
+18/19;Djaniny;27;5000000;Santos Laguna;Al-Ahli SFC;10240000
+18/19;Gonzalo Higuain;30;55000000;Juventus;AC Milan;10200000
+18/19;Karim Adeyemi;16;;U'haching U19;RB Salzburg;10100000
+18/19;Jordan Amavi;24;16000000;Aston Villa;Marseille;10000000
+18/19;Vicente Iborra;30;9000000;Leicester;Villarreal;10000000
+18/19;Omar Mascarell;25;8000000;Real Madrid;FC Schalke 04;10000000
+18/19;Yaroslav Rakitskyi;29;7500000;Shakhtar D.;Zenit S-Pb;10000000
+18/19;Danilo Barbosa;22;7000000;SC Braga;OGC Nice;10000000
+18/19;Aleksandar Prijovic;28;6000000;PAOK Salonika;Al-Ittihad Club;10000000
+18/19;Santiago Caseres;21;6000000;Velez Sarsfield;Villarreal;10000000
+18/19;Bernardo;23;6000000;RB Leipzig;Brighton;10000000
+18/19;Adama Diakhaby;22;5000000;Monaco;Huddersfield;10000000
+18/19;Nemanja Maksimovic;23;5000000;Valencia;Getafe;10000000
+18/19;Myziane Maolida;19;4500000;Olympique Lyon;OGC Nice;10000000
+18/19;Nicolae Stanciu;25;4250000;Sparta Prague;Al-Ahli SFC;10000000
+18/19;Daniel Ginczek;27;3500000;VfB Stuttgart;VfL Wolfsburg;10000000
+18/19;Antonio Barreca;23;3500000;Torino;Monaco;10000000
+18/19;Jason Denayer;23;3000000;Man City;Olympique Lyon;10000000
+18/19;Jeremie Boga;21;2500000;Chelsea U23;Sassuolo;10000000
+18/19;Borja Iglesias;25;1000000;Celta de Vigo;Espanyol;10000000
+18/19;German Pezzella;27;13000000;Real Betis;Fiorentina;9750000
+18/19;Gabriel Pires;24;10000000;CD Leganes;Benfica;9600000
+18/19;Bryan Cristante;23;25000000;Benfica;Atalanta BC;9500000
+18/19;Roger Guedes;21;9000000;Palmeiras;SD Luneng;9500000
+18/19;Davide Santon;27;3000000;Inter;AS Roma;9500000
+18/19;Aleix Vidal;28;7500000;Barcelona;Sevilla FC;9300000
+18/19;Omar Colley;25;5000000;KRC Genk;Sampdoria;9250000
+18/19;Alejandro Pozuelo;27;8000000;KRC Genk;Toronto;9090000
+18/19;Cesc Fabregas;31;25000000;Chelsea;Monaco;9000000
+18/19;Fedor Smolov;28;14000000;Krasnodar;Loko Moscow;9000000
+18/19;Ramiro Funes Mori;27;10000000;Everton;Villarreal;9000000
+18/19;Pablo Maffeo;20;10000000;Man City;VfB Stuttgart;9000000
+18/19;Riccardo Saponara;26;9000000;Empoli;Fiorentina;9000000
+18/19;Lukasz Skorupski;27;7000000;AS Roma;Bologna;9000000
+18/19;Lisandro Magallan;25;6000000;Boca Juniors;Ajax;9000000
+18/19;Robin Olsen;28;2500000;FC Copenhagen;AS Roma;9000000
+18/19;Jordan;22;2500000;Stade Reims;Rennes;9000000
+18/19;Brian Fernandez;24;2000000;Necaxa;Portland;9000000
+18/19;Antonino La Gumina;22;2000000;US Palermo;Empoli;9000000
+18/19;Rabbi Matondo;18;;Man City U23;FC Schalke 04;9000000
+18/19;Garry Rodrigues;28;9000000;Galatasaray;Al-Ittihad Club;9000000
+18/19;Nikola Vukcevic;26;7500000;SC Braga;Levante;8900000
+18/19;Carlos Salcedo;25;10000000;E. Frankfurt;Tigres UANL;8800000
+18/19;Guido Pizarro;28;7500000;Sevilla FC;Tigres UANL;8700000
+18/19;Samuel Kalu;20;5000000;KAA Gent;G. Bordeaux;8500000
+18/19;Keno;28;3500000;Palmeiras;Pyramids FC;8500000
+18/19;Andriy Lunin;19;3500000;Zorya Lugansk;Real Madrid;8500000
+18/19;Nordin Amrabat;31;3000000;Watford;Al-Nassr FC;8500000
+18/19;Roger Martinez;24;2500000;Villarreal;America;8500000
+18/19;Davide Bettella;18;1000000;Inter;Atalanta BC;8500000
+18/19;Ben Brereton Diaz;19;5000000;Nottm Forest;Blackburn;8300000
+18/19;Anthony Limbombe;24;8000000;Club Brugge;FC Nantes;8250000
+18/19;Hassane Bande;19;7500000;KV Mechelen;Ajax;8250000
+18/19;Tanguy Ndombele;21;25000000;Amiens SC;Olympique Lyon;8000000
+18/19;Alban Lafont;19;18000000;Toulouse;Fiorentina;8000000
+18/19;Medhi Benatia;31;15000000;Juventus;Al-Duhail SC;8000000
+18/19;Sergi Darder;24;11000000;Olympique Lyon;Espanyol;8000000
+18/19;Kasim Adams;23;8500000;BSC Young Boys;TSG Hoffenheim;8000000
+18/19;Cristiano Piccini;25;7500000;Sporting CP;Valencia;8000000
+18/19;Ignacio Pussetto;22;7000000;Huracan;Udinese Calcio;8000000
+18/19;Sam Vokes;29;6000000;Burnley;Stoke City;8000000
+18/19;Samuel Gigot;24;6000000;KAA Gent;Spartak Moscow;8000000
+18/19;Aden Flint;28;5000000;Bristol City;Middlesbrough;8000000
+18/19;Lukasz Fabianski;33;5000000;Swansea;West Ham;8000000
+18/19;Alexis Mac Allister;20;5000000;Argentinos Jrs.;Brighton;8000000
+18/19;Erling Haaland;18;5000000;Molde FK;RB Salzburg;8000000
+18/19;Alexandru Mitrita;24;3500000;CS U Craiova;New York City;8000000
+18/19;Christian Cueva;26;3000000;Sao Paulo;Krasnodar;8000000
+18/19;Jean-Philippe Mateta;21;2500000;Olympique Lyon;1.FSV Mainz 05;8000000
+18/19;Matteo Guendouzi;19;2500000;FC Lorient;Arsenal;8000000
+18/19;Fran Beltran;19;2000000;Rayo Vallecano;Celta de Vigo;8000000
+18/19;Bubacarr Sanneh;23;1500000;FC Midtjylland;RSC Anderlecht;8000000
+18/19;Stuart Armstrong;26;2000000;Celtic;Southampton;7950000
+18/19;Kurt Zouma;23;15000000;Chelsea;Everton;7900000
+19/20;Joao Felix;19;70000000;Benfica;Atletico Madrid;127200000
+19/20;Antoine Griezmann;28;130000000;Atletico Madrid;Barcelona;120000000
+19/20;Eden Hazard;28;150000000;Chelsea;Real Madrid;115000000
+19/20;Harry Maguire;26;50000000;Leicester;Man Utd;87000000
+19/20;Frenkie de Jong;22;85000000;Ajax;Barcelona;86000000
+19/20;Matthijs de Ligt;19;75000000;Ajax;Juventus;85500000
+19/20;Lucas Hernandez;23;70000000;Atletico Madrid;Bayern Munich;80000000
+19/20;Nicolas Pepe;24;65000000;LOSC Lille;Arsenal;80000000
+19/20;Romelu Lukaku;26;75000000;Man Utd;Inter;74000000
+19/20;Rodri;23;80000000;Atletico Madrid;Man City;70000000
+19/20;Joao Cancelo;25;55000000;Juventus;Man City;65000000
+19/20;Luka Jovic;21;60000000;E. Frankfurt;Real Madrid;63000000
+19/20;Bruno Fernandes;25;60000000;Sporting CP;Man Utd;63000000
+19/20;Tanguy Ndombele;22;65000000;Olympique Lyon;Tottenham;62000000
+19/20;Aaron Wan-Bissaka;21;35000000;Crystal Palace;Man Utd;55000000
+19/20;Eder Militao;21;50000000;FC Porto;Real Madrid;50000000
+19/20;Sebastien Haller;25;40000000;E. Frankfurt;West Ham;50000000
+19/20;Ferland Mendy;24;30000000;Olympique Lyon;Real Madrid;48000000
+19/20;Hirving Lozano;24;40000000;PSV Eindhoven;SSC Napoli;45000000
+19/20;Rodrygo;18;40000000;Santos;Real Madrid;45000000
+19/20;Youri Tielemans;22;38000000;Monaco;Leicester;45000000
+19/20;Mateo Kovacic;25;35000000;Real Madrid;Chelsea;45000000
+19/20;Joelinton;22;35000000;TSG Hoffenheim;Newcastle;44000000
+19/20;Wissam Ben Yedder;29;40000000;Sevilla FC;Monaco;40000000
+19/20;Malcom;22;40000000;Barcelona;Zenit S-Pb;40000000
+19/20;Raul Jimenez;28;35000000;Benfica;Wolves;38000000
+19/20;Danilo;28;20000000;Man City;Juventus;37000000
+19/20;Konstantinos Manolas;28;45000000;AS Roma;SSC Napoli;36000000
+19/20;Benjamin Pavard;23;30000000;VfB Stuttgart;Bayern Munich;35000000
+19/20;Dejan Kulusevski;19;25000000;Atalanta BC;Juventus;35000000
+19/20;Jasper Cillessen;30;18000000;Barcelona;Valencia;35000000
+19/20;Jules Kounde;20;15000000;G. Bordeaux;Sevilla FC;35000000
+19/20;Ayoze Perez;25;20000000;Newcastle;Leicester;33400000
+19/20;Abdou Diallo;23;35000000;Bor. Dortmund;Paris SG;32000000
+19/20;Franck Kessie;22;33000000;Atalanta BC;AC Milan;32000000
+19/20;Kerem Demirbay;26;32000000;TSG Hoffenheim;B. Leverkusen;32000000
+19/20;Cristian Romero;21;15000000;Genoa;Juventus;31500000
+19/20;Mats Hummels;30;35000000;Bayern Munich;Bor. Dortmund;30500000
+19/20;Alex Iwobi;23;25000000;Arsenal;Everton;30400000
+19/20;Steven Bergwijn;22;35000000;PSV Eindhoven;Tottenham;30000000
+19/20;Ismaila Sarr;21;30000000;Rennes;Watford;30000000
+19/20;Gelson Martins;24;28000000;Atletico Madrid;Monaco;30000000
+19/20;Reinier;18;25000000;Flamengo;Real Madrid;30000000
+19/20;Idrissa Gueye;29;25000000;Everton;Paris SG;30000000
+19/20;Marcos Llorente;24;20000000;Real Madrid;Atletico Madrid;30000000
+19/20;William Saliba;18;12000000;Saint-Etienne;Arsenal;30000000
+19/20;Leonardo Spinazzola;26;15000000;Juventus;AS Roma;29500000
+19/20;Rafael Leao;20;15000000;LOSC Lille;AC Milan;29500000
+19/20;Dani Olmo;21;35000000;Dinamo Zagreb;RB Leipzig;29000000
+19/20;Borja Iglesias;26;28000000;Espanyol;Real Betis;28000000
+19/20;Pablo Fornals;23;25000000;Villarreal;West Ham;28000000
+19/20;Moise Kean;19;40000000;Juventus;Everton;27500000
+19/20;Christian Eriksen;27;90000000;Tottenham;Inter;27000000
+19/20;Ryan Sessegnon;19;35000000;Fulham;Tottenham;27000000
+19/20;Kieran Tierney;22;12500000;Celtic;Arsenal;27000000
+19/20;Alex Meret;22;25000000;Udinese Calcio;SSC Napoli;26000000
+19/20;Neto;29;18000000;Valencia;Barcelona;26000000
+19/20;Thorgan Hazard;26;38000000;Bor. M'gladbach;Bor. Dortmund;25500000
+19/20;Nico Schulz;26;25000000;TSG Hoffenheim;Bor. Dortmund;25500000
+19/20;Danny Ings;26;15000000;Liverpool;Southampton;25100000
+19/20;Julian Brandt;23;50000000;B. Leverkusen;Bor. Dortmund;25000000
+19/20;Marko Arnautovic;30;35000000;West Ham;SH SIPG;25000000
+19/20;Jean-Philippe Gbamin;23;28000000;1.FSV Mainz 05;Everton;25000000
+19/20;Andre Gomes;25;28000000;Barcelona;Everton;25000000
+19/20;Rony Lopes;23;25000000;Monaco;Sevilla FC;25000000
+19/20;Mario Hermoso;24;25000000;Espanyol;Atletico Madrid;25000000
+19/20;Wesley Moraes;22;20000000;Club Brugge;Aston Villa;25000000
+19/20;Lucas Tousart;22;20000000;Olympique Lyon;Hertha BSC;25000000
+19/20;Jeff Reine-Adelaide;21;11000000;Angers SCO;Olympique Lyon;25000000
+19/20;Krzysztof Piatek;24;32000000;AC Milan;Hertha BSC;24000000
+19/20;Joachim Andersen;23;25000000;Sampdoria;Olympique Lyon;24000000
+19/20;Pau Lopez;24;20000000;Real Betis;AS Roma;23500000
+19/20;Paco Alcacer;26;42000000;Bor. Dortmund;Villarreal;23000000
+19/20;Sander Berge;21;22000000;KRC Genk;Sheff Utd;23000000
+19/20;Nikola Vlasic;21;20000000;Everton;CSKA Moscow;23000000
+19/20;Theo Hernandez;21;15000000;Real Madrid;AC Milan;22800000
+19/20;Raul de Tomas;25;15000000;Benfica;Espanyol;22500000
+19/20;Valentino Lazaro;23;17000000;Hertha BSC;Inter;22400000
+19/20;Victor Osimhen;20;13000000;RSC Charleroi;LOSC Lille;22400000
+19/20;Luka Jovic;21;60000000;Benfica;E. Frankfurt;22340000
+19/20;Tyrone Mings;26;5000000;Bournemouth;Aston Villa;22300000
+19/20;Adam Webster;24;9000000;Bristol City;Brighton;22220000
+19/20;Giovani Lo Celso;23;50000000;Paris SG;Real Betis;22000000
+19/20;Kieran Trippier;28;35000000;Tottenham;Atletico Madrid;22000000
+19/20;Thiago Mendes;27;25000000;LOSC Lille;Olympique Lyon;22000000
+19/20;Bryan Cristante;24;25000000;Atalanta BC;AS Roma;22000000
+19/20;Luca Pellegrini;20;5000000;AS Roma;Juventus;22000000
+19/20;Renan Lodi;21;4000000;Athletico-PR;Atletico Madrid;21750000
+19/20;Jarrod Bowen;23;10000000;Hull City;West Ham;21300000
+19/20;Luis Muriel;28;13000000;Sevilla FC;Atalanta BC;21200000
+19/20;Matteo Politano;25;30000000;Sassuolo;Inter;21100000
+19/20;Paco Alcacer;25;37000000;Barcelona;Bor. Dortmund;21000000
+19/20;Stanislav Lobotka;25;20000000;Celta de Vigo;SSC Napoli;21000000
+19/20;Amadou Diawara;21;15000000;SSC Napoli;AS Roma;21000000
+19/20;Raphinha;22;8000000;Sporting CP;Rennes;21000000
+19/20;Kasper Dolberg;21;18000000;Ajax;OGC Nice;20500000
+19/20;Edmond Tapsoba;21;4500000;Vit. Guimaraes;B. Leverkusen;20200000
+19/20;Erling Haaland;19;45000000;RB Salzburg;Bor. Dortmund;20000000
+19/20;Junior Firpo;22;25000000;Real Betis;Barcelona;20000000
+19/20;Julian Weigl;24;23000000;Bor. Dortmund;Benfica;20000000
+19/20;Felipe;30;20000000;FC Porto;Atletico Madrid;20000000
+19/20;Raul de Tomas;24;20000000;Real Madrid;Benfica;20000000
+19/20;Bruno Guimaraes;22;20000000;Athletico-PR;Olympique Lyon;20000000
+19/20;Dodi Lukebakio;21;18000000;Watford;Hertha BSC;20000000
+19/20;Renato Sanches;22;18000000;Bayern Munich;LOSC Lille;20000000
+19/20;Emil Audero;22;15000000;Juventus;Sampdoria;20000000
+19/20;Maximilian Philipp;25;13000000;Bor. Dortmund;Dinamo Moscow;20000000
+19/20;Youssef En-Nesyri;22;12000000;CD Leganes;Sevilla FC;20000000
+19/20;Nabil Fekir;26;60000000;Olympique Lyon;Real Betis;19750000
+19/20;Daniel Podence;24;6000000;Olympiacos;Wolves;19600000
+19/20;Merih Demiral;21;15000000;Sassuolo;Juventus;19500000
+19/20;Sofyan Amrabat;23;10000000;Hellas Verona;Fiorentina;19500000
+19/20;Dennis Praet;25;24000000;Sampdoria;Leicester;19200000
+19/20;Oliver McBurnie;23;8000000;Swansea;Sheff Utd;19100000
+19/20;Yusuf Yazici;22;13000000;Trabzonspor;LOSC Lille;18500000
+19/20;Salomon Rondon;29;15000000;West Brom;DL Pro;18270000
+19/20;Pablo Sarabia;27;40000000;Sevilla FC;Paris SG;18000000
+19/20;Patrick Cutrone;21;28000000;AC Milan;Wolves;18000000
+19/20;Allan Saint-Maximin;22;25000000;OGC Nice;Newcastle;18000000
+19/20;Ademola Lookman;21;20000000;Everton;RB Leipzig;18000000
+19/20;Guillermo Maripan;25;15000000;Alaves;Monaco;18000000
+19/20;Aurelien Tchouameni;20;14000000;G. Bordeaux;Monaco;18000000
+19/20;Matheus Cunha;20;13000000;RB Leipzig;Hertha BSC;18000000
+19/20;Martin Braithwaite;28;10000000;CD Leganes;Barcelona;18000000
+19/20;Guus Til;21;6000000;AZ Alkmaar;Spartak Moscow;18000000
+19/20;Pedro Neto;19;2500000;Lazio;Wolves;17900000
+19/20;Daniel James;21;12000000;Swansea;Man Utd;17800000
+19/20;Gabriel;23;23000000;Inter;Flamengo;17500000
+19/20;Pedri;16;;UD Las Palmas;Barcelona;17500000
+19/20;Ismael Bennacer;21;12000000;Empoli;AC Milan;17200000
+19/20;Exequiel Palacios;21;25000000;River Plate;B. Leverkusen;17000000
+19/20;Munas Dabbur;27;15000000;RB Salzburg;Sevilla FC;17000000
+19/20;Carlos Vinicius;24;7000000;SSC Napoli;Benfica;17000000
+19/20;Douglas Luiz;21;2500000;Man City;Aston Villa;16800000
+19/20;Che Adams;22;7000000;Birmingham;Southampton;16700000
+19/20;Andrea Petagna;24;18000000;SPAL;SSC Napoli;16600000
+19/20;Stefano Sturaro;26;10000000;Juventus;Genoa;16500000
+19/20;Philip Billing;23;7000000;Huddersfield;Bournemouth;16500000
+19/20;Arnaut Danjuma;22;12000000;Club Brugge;Bournemouth;16460000
+19/20;Nahitan Nandez;23;18000000;Boca Juniors;Cagliari Calcio;16200000
+19/20;Eljif Elmas;19;10000000;Fenerbahce;SSC Napoli;16200000
+19/20;Giovani Lo Celso;23;50000000;Real Betis;Tottenham;16000000
+19/20;Stephan El Shaarawy;26;30000000;AS Roma;SH Shenhua;16000000
+19/20;Quincy Promes;27;18000000;Sevilla FC;Ajax;15700000
+19/20;Moussa Djenepo;21;12000000;Standard Liege;Southampton;15700000
+19/20;Neal Maupay;22;12000000;Brentford;Brighton;15560000
+19/20;Leandro Trossard;24;16000000;KRC Genk;Brighton;15560000
+19/20;Matt Targett;23;7000000;Southampton;Aston Villa;15500000
+19/20;Darwin Nunez;20;750000;Penarol;UD Almeria;15250000
+19/20;Manuel Lazzari;25;18000000;SPAL;Lazio;15000000
+19/20;Ozan Kabak;19;15000000;VfB Stuttgart;FC Schalke 04;15000000
+19/20;Riccardo Orsolini;22;15000000;Juventus;Bologna;15000000
+19/20;Lucas Ocampos;24;15000000;Marseille;Sevilla FC;15000000
+19/20;Diego Carlos;26;13000000;FC Nantes;Sevilla FC;15000000
+19/20;M'Baye Niang;24;12000000;Torino;Rennes;15000000
+19/20;Moussa Diaby;19;12000000;Paris SG;B. Leverkusen;15000000
+19/20;Keylor Navas;32;10000000;Real Madrid;Paris SG;15000000
+19/20;Alexander Isak;19;8000000;Bor. Dortmund;Real Sociedad;15000000
+19/20;Edson Alvarez;21;7500000;America;Ajax;15000000
+19/20;Youssouf Fofana;21;6000000;R. Strasbourg;Monaco;15000000
+19/20;Lloyd Kelly;20;9000000;Bristol City;Bournemouth;14800000
+19/20;Maxi Gomez;22;40000000;Celta de Vigo;Valencia;14500000
+19/20;Jakub Jankto;23;12000000;Udinese Calcio;Sampdoria;14500000
+19/20;Amir Rrahmani;25;6000000;Hellas Verona;SSC Napoli;14200000
+19/20;Diadie Samassekou;23;20000000;RB Salzburg;TSG Hoffenheim;14000000
+19/20;Dario Benedetto;29;15000000;Boca Juniors;Marseille;14000000
+19/20;Joan Jordan;25;12000000;SD Eibar;Sevilla FC;14000000
+19/20;Manuel Locatelli;21;12000000;AC Milan;Sassuolo;14000000
+19/20;Djibril Sow;22;9000000;BSC Young Boys;E. Frankfurt;14000000
+19/20;Leander Dendoncker;24;18000000;RSC Anderlecht;Wolves;13800000
+19/20;Ruslan Malinovskyi;26;12500000;KRC Genk;Atalanta BC;13600000
+19/20;Benjamin Lecomte;28;17000000;Montpellier;Monaco;13500000
+19/20;Henry Onyekuru;22;13000000;Everton;Monaco;13500000
+19/20;Douglas Santos;25;10000000;Hamburger SV;Zenit S-Pb;13500000
+19/20;Jeison Murillo;27;8000000;Valencia;Sampdoria;13300000
+19/20;Ezri Konsa;21;3500000;Brentford;Aston Villa;13300000
+19/20;Valentin Rongier;24;15000000;FC Nantes;Marseille;13000000
+19/20;Gerson;22;13000000;AS Roma;Flamengo;13000000
+19/20;Christopher Nkunku;21;12000000;Paris SG;RB Leipzig;13000000
+19/20;Alexis Claude-Maurice;21;7500000;FC Lorient;OGC Nice;13000000
+19/20;Denis Suarez;25;12000000;Barcelona;Celta de Vigo;12900000
+19/20;Razvan Marin;23;13500000;Standard Liege;Ajax;12500000
+19/20;Stefan Lainer;26;12500000;RB Salzburg;Bor. M'gladbach;12500000
+19/20;Luuk de Jong;28;12000000;PSV Eindhoven;Sevilla FC;12500000
+19/20;Stanley Nsoki;20;8500000;Paris SG;OGC Nice;12500000
+19/20;Isaac Mbenza;23;5000000;Montpellier;Huddersfield;12500000
+19/20;Erick Pulgar;25;10000000;Bologna;Fiorentina;12300000
+19/20;Duvan Zapata;28;45000000;Sampdoria;Atalanta BC;12000000
+19/20;Nicolo Barella;22;36000000;Cagliari Calcio;Inter;12000000
+19/20;Shoya Nakajima;24;25000000;Al-Duhail SC;FC Porto;12000000
+19/20;Andrea Petagna;24;20000000;Atalanta BC;SPAL;12000000
+19/20;Grzegorz Krychowiak;29;18000000;Paris SG;Loko Moscow;12000000
+19/20;Angelino;22;16000000;PSV Eindhoven;Man City;12000000
+19/20;Xaver Schlager;21;15000000;RB Salzburg;VfL Wolfsburg;12000000
+19/20;Remy Cabella;29;14000000;Saint-Etienne;Krasnodar;12000000
+19/20;Hannes Wolf;20;12000000;RB Salzburg;RB Leipzig;12000000
+19/20;Simone Zaza;28;10000000;Valencia;Torino;12000000
+19/20;Bruma;24;10000000;RB Leipzig;PSV Eindhoven;12000000
+19/20;Munas Dabbur;27;10000000;Sevilla FC;TSG Hoffenheim;12000000
+19/20;Pedro Porro;19;10000000;Girona;Man City;12000000
+19/20;Timo Baumgartl;23;9000000;VfB Stuttgart;PSV Eindhoven;12000000
+19/20;Odion Ighalo;30;6500000;SH Shenhua;Man Utd;12000000
+19/20;Marvelous Nakamba;25;6500000;Club Brugge;Aston Villa;12000000
+19/20;Tino Kadewere;24;4000000;AC Le Havre;Olympique Lyon;12000000
+19/20;Alex Kral;21;3500000;Slavia Prague;Spartak Moscow;12000000
+19/20;Thierry Correia;20;400000;Sporting CP;Valencia;12000000
+19/20;Ivan Cavaleiro;26;10000000;Wolves;Fulham;11800000
+19/20;Zinho Vanheusden;19;10000000;Inter;Standard Liege;11740000
+19/20;Joao Pedro;18;20000000;Fluminense;Watford;11500000
+19/20;Albian Ajeti;22;7000000;FC Basel;West Ham;11300000
+19/20;Noah Okafor;19;8000000;FC Basel;RB Salzburg;11200000
+19/20;Lys Mousset;23;3500000;Bournemouth;Sheff Utd;11100000
+19/20;Pedro;22;18000000;Fluminense;Fiorentina;11000000
+19/20;Oliver Torres;24;17000000;FC Porto;Sevilla FC;11000000
+19/20;Breel Embolo;22;14000000;FC Schalke 04;Bor. M'gladbach;11000000
+19/20;Luciano Vietto;25;7000000;Atletico Madrid;Sporting CP;11000000
+19/20;Jack Clarke;18;6000000;Leeds;Tottenham;11000000
+19/20;Pedro Neto;19;2500000;SC Braga;Lazio;11000000
+19/20;Rodolfo Pizarro;26;10000000;Monterrey;Miami;10910000
+19/20;Ze Luis;28;8000000;Spartak Moscow;FC Porto;10750000
+19/20;Ionut Radu;22;15000000;Genoa;Inter;10600000
+19/20;Leo Duarte;23;4000000;Flamengo;AC Milan;10600000
+19/20;Ally Samatta;27;12000000;KRC Genk;Aston Villa;10500000
+19/20;Matias Vargas;22;11000000;Velez Sarsfield;Espanyol;10500000
+19/20;Maximilian Wober;21;10000000;Sevilla FC;RB Salzburg;10500000
+19/20;Maximilian Wober;21;10000000;Ajax;Sevilla FC;10500000
+19/20;Denis Vavro;23;6000000;FC Copenhagen;Lazio;10500000
+19/20;Brian Rodriguez;19;1000000;Penarol;LAFC;10450000
+19/20;Diego Demme;28;17000000;RB Leipzig;SSC Napoli;10250000
+19/20;Robert Skov;23;13000000;FC Copenhagen;TSG Hoffenheim;10000000
+19/20;Benito Raman;24;12000000;F. Dusseldorf;FC Schalke 04;10000000
+19/20;Remi Oudin;23;11000000;Stade Reims;G. Bordeaux;10000000
+19/20;Jay Rodriguez;29;10000000;West Brom;Burnley;10000000
+19/20;Portu;27;10000000;Girona;Real Sociedad;10000000
+19/20;Santiago Ascacibar;22;10000000;VfB Stuttgart;Hertha BSC;10000000
+19/20;Strahinja Pavlovic;18;8000000;Partizan;Monaco;10000000
+19/20;Mahmoud Trezeguet;24;6000000;Kasimpasa;Aston Villa;10000000
+19/20;Timothy Weah;19;6000000;Paris SG;LOSC Lille;10000000
+19/20;Josh Brownhill;24;4500000;Bristol City;Burnley;10000000
+19/20;Adrian Embarba;27;4000000;Rayo Vallecano;Espanyol;10000000
+19/20;Eddie Salcedo;17;2000000;Genoa;Inter;10000000
+19/20;Jean Marcelin;19;1500000;AJ Auxerre;Monaco;10000000
+19/20;Arthur Zagre;17;;Paris SG;Monaco;10000000
+19/20;Hannibal;16;;Monaco Youth;Man Utd U18;10000000
+19/20;Uriel Antuna;22;3200000;Man City U23;Chivas;9900000
+19/20;Ola Aina;22;10000000;Chelsea;Torino;9800000
+19/20;Giovanni Di Lorenzo;25;9000000;Empoli;SSC Napoli;9800000
+19/20;Alex Moreno;26;12000000;Rayo Vallecano;Real Betis;9700000
+19/20;Fernando;28;9000000;Spartak Moscow;BJ Guoan;9600000
+19/20;Fabian Delph;29;15000000;Man City;Everton;9500000
+20/21;Kai Havertz;21;81000000;B. Leverkusen;Chelsea;80000000
+20/21;Arthur Melo;24;56000000;Barcelona;Juventus;76000000
+20/21;Victor Osimhen;21;40000000;LOSC Lille;SSC Napoli;75000000
+20/21;Ruben Dias;23;35000000;Benfica;Man City;71600000
+20/21;Miralem Pjanic;30;45000000;Juventus;Barcelona;60000000
+20/21;Timo Werner;24;64000000;RB Leipzig;Chelsea;53000000
+20/21;Ben Chilwell;23;40000000;Leicester;Chelsea;50200000
+20/21;Mauro Icardi;27;60000000;Inter;Paris SG;50000000
+20/21;Thomas Partey;27;40000000;Atletico Madrid;Arsenal;50000000
+20/21;Leroy Sane;24;80000000;Man City;Bayern Munich;49000000
+20/21;Nathan Ake;25;28000000;Bournemouth;Man City;45300000
+20/21;Diogo Jota;23;28000000;Wolves;Liverpool;44700000
+20/21;Achraf Hakimi;21;54000000;Real Madrid;Inter;43000000
+20/21;Hakim Ziyech;27;40000000;Ajax;Chelsea;40000000
+20/21;Fabio Silva;18;12000000;FC Porto;Wolves;40000000
+20/21;Donny van de Beek;23;44000000;Ajax;Man Utd;39000000
+20/21;Alvaro Morata;27;36000000;Chelsea;Atletico Madrid;35000000
+20/21;Wesley Fofana;19;10000000;Saint-Etienne;Leicester;35000000
+20/21;Ollie Watkins;24;12000000;Brentford;Aston Villa;34000000
+20/21;Darwin Nunez;21;10000000;UD Almeria;Benfica;34000000
+20/21;Ferran Torres;20;45000000;Valencia;Man City;33500000
+20/21;Nicolo Barella;23;50000000;Cagliari Calcio;Inter;32500000
+20/21;Nelson Semedo;26;40000000;Barcelona;Wolves;32000000
+20/21;Giovani Lo Celso;24;40000000;Real Betis;Tottenham;32000000
+20/21;Trincao;20;16000000;SC Braga;Barcelona;31000000
+20/21;Rodrigo;29;40000000;Valencia;Leeds;30000000
+20/21;Sergio Reguilon;23;25000000;Real Madrid;Tottenham;30000000
+20/21;Ben Godfrey;22;16000000;Norwich;Everton;27500000
+20/21;Jonathan David;20;25000000;KAA Gent;LOSC Lille;27000000
+20/21;Yannick Carrasco;27;22500000;DL Pro;Atletico Madrid;27000000
+20/21;Patrik Schick;24;25000000;AS Roma;B. Leverkusen;26500000
+20/21;Gabriel Magalhaes;22;20000000;LOSC Lille;Arsenal;26000000
+20/21;Jeremy Doku;18;9000000;RSC Anderlecht;Rennes;26000000
+20/21;Rhian Brewster;20;5400000;Liverpool U23;Sheff Utd;26000000
+20/21;Nicolo Rovella;19;4000000;Genoa;Juventus;26000000
+20/21;Emre Can;26;24000000;Juventus;Bor. Dortmund;25000000
+20/21;Stefano Sensi;25;20000000;Sassuolo;Inter;25000000
+20/21;Jude Bellingham;17;11000000;Birmingham;Bor. Dortmund;25000000
+20/21;Allan;29;28000000;SSC Napoli;Everton;24600000
+20/21;Edouard Mendy;28;7000000;Rennes;Chelsea;24000000
+20/21;Lucas Paqueta;23;20000000;AC Milan;Olympique Lyon;23440000
+20/21;Said Benrahma;25;22000000;Brentford;West Ham;23100000
+20/21;Sebastien Haller;26;30000000;West Ham;Ajax;22500000
+20/21;Callum Wilson;28;20000000;Bournemouth;Newcastle;22250000
+20/21;Thiago;29;48000000;Bayern Munich;Liverpool;22000000
+20/21;Dominik Szoboszlai;20;25000000;RB Salzburg;RB Leipzig;22000000
+20/21;Abdoulaye Doucoure;27;20000000;Watford;Everton;22000000
+20/21;Simone Verdi;28;13000000;SSC Napoli;Torino;22000000
+20/21;Roberto Inglese;28;12000000;SSC Napoli;Parma;21800000
+20/21;Suso;26;17500000;AC Milan;Sevilla FC;21700000
+20/21;Amad Diallo;18;15000000;Atalanta BC;Man Utd;21300000
+20/21;Gianluca Mancini;24;22000000;Atalanta BC;AS Roma;21000000
+20/21;Sergino Dest;19;18000000;Ajax;Barcelona;21000000
+20/21;Andrea Pinamonti;21;13500000;Genoa;Inter;21000000
+20/21;Jean-Kevin Augustin;23;9500000;RB Leipzig;Leeds;21000000
+20/21;Timothy Castagne;24;18000000;Atalanta BC;Leicester;20900000
+20/21;Aaron Ramsdale;22;12500000;Bournemouth;Sheff Utd;20500000
+20/21;Wendel;23;12000000;Sporting CP;Zenit S-Pb;20300000
+20/21;Alvaro Morata;27;36000000;Atletico Madrid;Juventus;20000000
+20/21;Everton;24;28000000;Gremio;Benfica;20000000
+20/21;Diego Llorente;27;20000000;Real Sociedad;Leeds;20000000
+20/21;Alexander Sorloth;24;20000000;Crystal Palace;RB Leipzig;20000000
+20/21;Vedat Muriqi;26;12000000;Fenerbahce;Lazio;20000000
+20/21;Andrea Pinamonti;21;13500000;Inter;Genoa;19500000
+20/21;Raphinha;23;16000000;Rennes;Leeds;18600000
+20/21;Bertrand Traore;25;9500000;Olympique Lyon;Aston Villa;18400000
+20/21;Pedrinho;22;13500000;Corinthians;Benfica;18000000
+20/21;Eberechi Eze;22;9000000;QPR;Crystal Palace;17800000
+20/21;Helder Costa;26;8000000;Wolves;Leeds;17700000
+20/21;Jordan Veretout;27;24000000;Fiorentina;AS Roma;17500000
+20/21;Emiliano Martinez;28;8000000;Arsenal;Aston Villa;17400000
+20/21;Gerard Deulofeu;26;12000000;Watford;Udinese Calcio;17000000
+20/21;Matt Doherty;28;16000000;Wolves;Tottenham;16800000
+20/21;Krepin Diatta;21;18000000;Club Brugge;Monaco;16700000
+20/21;Pierre-Emile Hojbjerg;25;20000000;Southampton;Tottenham;16600000
+20/21;Jamal Lewis;22;11000000;Norwich;Newcastle;16500000
+20/21;Karlan Grant;23;8000000;Huddersfield;West Brom;16500000
+20/21;Pervis Estupinan;22;15000000;Watford;Villarreal;16399999
+20/21;Tomas Soucek;25;12000000;Slavia Prague;West Ham;16200000
+20/21;Paulinho;28;15000000;SC Braga;Sporting CP;16000000
+20/21;Pity Martinez;27;12000000;Atlanta;Al-Nassr FC;16000000
+20/21;Morgan Sanson;26;20000000;Marseille;Aston Villa;15800000
+20/21;Antony;20;18000000;Sao Paulo;Ajax;15750000
+20/21;Matty Cash;23;4800000;Nottm Forest;Aston Villa;15750000
+20/21;Alex Telles;27;40000000;FC Porto;Man Utd;15000000
+20/21;Chris Smalling;30;20000000;Man Utd;AS Roma;15000000
+20/21;Geoffrey Kondogbia;27;17500000;Valencia;Atletico Madrid;15000000
+20/21;Luca Waldschmidt;24;16000000;SC Freiburg;Benfica;15000000
+20/21;Alfred Duncan;27;15000000;Sassuolo;Fiorentina;15000000
+20/21;Nicolas Otamendi;32;14500000;Man City;Benfica;15000000
+20/21;Marko Rog;25;13000000;SSC Napoli;Cagliari Calcio;15000000
+20/21;Rolando Mandragora;23;12000000;Udinese Calcio;Juventus;15000000
+20/21;Jhon Cordoba;27;12000000;1. FC Koln;Hertha BSC;15000000
+20/21;Serhou Guirassy;24;8000000;Amiens SC;Rennes;15000000
+20/21;Mario Pasalic;25;25000000;Chelsea;Atalanta BC;14500000
+20/21;Aleksey Miranchuk;24;18000000;Loko Moscow;Atalanta BC;14500000
+20/21;Pedro;23;12000000;Fiorentina;Flamengo;14000000
+20/21;Joakim Maehle;23;11000000;KRC Genk;Atalanta BC;13700000
+20/21;Oscar Rodriguez;22;15000000;Real Madrid;Sevilla FC;13500000
+20/21;Grady Diangana;22;4500000;West Ham;West Brom;13500000
+20/21;Kyle Walker-Peters;23;8000000;Tottenham;Southampton;13300000
+20/21;Robin Koch;24;17000000;SC Freiburg;Leeds;13000000
+20/21;Giovanni Simeone;25;15000000;Fiorentina;Cagliari Calcio;13000000
+20/21;Axel Disasi;22;13500000;Stade Reims;Monaco;13000000
+20/21;Lucas Martinez Quarta;24;10000000;River Plate;Fiorentina;13000000
+20/21;Carles Perez;22;9000000;Barcelona;AS Roma;13000000
+20/21;Konstantinos Tsimikas;24;9000000;Olympiacos;Liverpool;13000000
+20/21;Dennis Man;22;6500000;FCSB;Parma;13000000
+20/21;Brenden Aaronson;20;10000000;Philadelphia;RB Salzburg;12700000
+20/21;Jean-Daniel Akpa Akpro;27;600000;Salernitana;Lazio;12700000
+20/21;Federico Chiesa;22;48000000;Fiorentina;Juventus;12600000
+20/21;Joe Rodon;23;7000000;Swansea;Tottenham;12100000
+20/21;Ibrahima Diallo;21;15000000;Stade Brestois;Southampton;12000000
+20/21;Dejan Lovren;31;12000000;Liverpool;Zenit S-Pb;12000000
+20/21;Oussama Idrissi;24;12000000;AZ Alkmaar;Sevilla FC;12000000
+20/21;Mohammed Salisu;21;12000000;Real Valladolid;Southampton;12000000
+20/21;Martin Terrier;23;10500000;Olympique Lyon;Rennes;12000000
+20/21;Hee-chan Hwang;24;10000000;RB Salzburg;RB Leipzig;12000000
+20/21;Alex Berenguer;25;6000000;Torino;Athletic;12000000
+20/21;Manolo Portanova;20;1000000;Juventus;Genoa;12000000
+20/21;Brenner;21;1300000;Sao Paulo;Cincinnati;11820000
+20/21;Marc Cucurella;21;18000000;Barcelona;Getafe;11800000
+20/21;Davy Klaassen;27;12000000;Werder Bremen;Ajax;11700000
+20/21;Anthony Knockaert;28;6500000;Brighton;Fulham;11700000
+20/21;Karl Toko Ekambi;27;14000000;Villarreal;Olympique Lyon;11500000
+20/21;Chidera Ejuke;22;5500000;Heerenveen;CSKA Moscow;11500000
+20/21;Marcos Acuna;28;12000000;Sporting CP;Sevilla FC;11250000
+20/21;Kevin Volland;28;28000000;B. Leverkusen;Monaco;11000000
+20/21;Christian Kouame;22;17500000;Genoa;Fiorentina;11000000
+20/21;Pol Lirola;23;10000000;Sassuolo;Fiorentina;11000000
+20/21;Kevin Bonifazi;24;4000000;Torino;SPAL;11000000
+20/21;Jeremie Frimpong;20;4000000;Celtic;B. Leverkusen;11000000
+20/21;Jakub Moder;21;3000000;Lech Poznan;Brighton;11000000
+20/21;Felix Correia;19;1000000;Man City U23;Juventus U23;10500000
+20/21;Habib Diallo;25;12000000;FC Metz;R. Strasbourg;10000000
+20/21;Carlos Fernandez;24;9000000;Sevilla FC;Real Sociedad;10000000
+20/21;Gregoire Defrel;29;8000000;AS Roma;Sassuolo;10000000
+20/21;Ridle Baku;22;7000000;1.FSV Mainz 05;VfL Wolfsburg;10000000
+20/21;Baptiste Santamaria;25;7000000;Angers SCO;SC Freiburg;10000000
+20/21;Alfred Gomis;27;2400000;Dijon;Rennes;10000000
+20/21;Pablo Moreno;18;;Juventus U19;Man City U23;10000000
+20/21;Ki-Jana Hoever;18;3600000;Liverpool U23;Wolves;9800000
+20/21;Vlad Chiriches;30;5000000;SSC Napoli;Sassuolo;9500000
+20/21;Valentin Mihaila;20;2500000;CS U Craiova;Parma;9100000
+20/21;Luis Suarez;33;28000000;Barcelona;Atletico Madrid;9000000
+20/21;Marc Roca;23;16000000;Espanyol;Bayern Munich;9000000
+20/21;Mohammed Kudus;20;9000000;Nordsjaelland;Ajax;9000000
+20/21;Enes Unal;23;8000000;Villarreal;Getafe;9000000
+20/21;Eldor Shomurodov;25;6500000;Rostov;Genoa;9000000
+20/21;Umar Sadiq;23;6000000;Partizan;UD Almeria;9000000
+20/21;Chidera Ejuke;22;5500000;Heerenveen;CSKA Moscow;11500000
+20/21;Marcos Acuna;28;12000000;Sporting CP;Sevilla FC;11250000
+20/21;Kevin Volland;28;28000000;B. Leverkusen;Monaco;11000000
+20/21;Christian Kouame;22;17500000;Genoa;Fiorentina;11000000
+20/21;Pol Lirola;23;10000000;Sassuolo;Fiorentina;11000000
+20/21;Kevin Bonifazi;24;4000000;Torino;SPAL;11000000
+20/21;Jeremie Frimpong;20;4000000;Celtic;B. Leverkusen;11000000
+20/21;Jakub Moder;21;3000000;Lech Poznan;Brighton;11000000
+20/21;Felix Correia;19;1000000;Man City U23;Juventus U23;10500000
+20/21;Habib Diallo;25;12000000;FC Metz;R. Strasbourg;10000000
+20/21;Carlos Fernandez;24;9000000;Sevilla FC;Real Sociedad;10000000
+20/21;Gregoire Defrel;29;8000000;AS Roma;Sassuolo;10000000
+20/21;Ridle Baku;22;7000000;1.FSV Mainz 05;VfL Wolfsburg;10000000
+20/21;Baptiste Santamaria;25;7000000;Angers SCO;SC Freiburg;10000000
+20/21;Alfred Gomis;27;2400000;Dijon;Rennes;10000000
+20/21;Pablo Moreno;18;;Juventus U19;Man City U23;10000000
+20/21;Ki-Jana Hoever;18;3600000;Liverpool U23;Wolves;9800000
+20/21;Vlad Chiriches;30;5000000;SSC Napoli;Sassuolo;9500000
+20/21;Valentin Mihaila;20;2500000;CS U Craiova;Parma;9100000
+20/21;Luis Suarez;33;28000000;Barcelona;Atletico Madrid;9000000
+20/21;Marc Roca;23;16000000;Espanyol;Bayern Munich;9000000
+20/21;Mohammed Kudus;20;9000000;Nordsjaelland;Ajax;9000000
+20/21;Enes Unal;23;8000000;Villarreal;Getafe;9000000
+20/21;Eldor Shomurodov;25;6500000;Rostov;Genoa;9000000
+20/21;Umar Sadiq;23;6000000;Partizan;UD Almeria;9000000
+20/21;Manu Kone;19;5000000;Toulouse;Bor. M'gladbach;9000000
+20/21;Adrian Grbic;23;2000000;Clermont Foot;FC Lorient;9000000
+20/21;Evanilson;20;7500000;Tombense;FC Porto;8800000
+20/21;Quincy Promes;29;15000000;Ajax;Spartak Moscow;8500000
+20/21;Adolfo Gaich;21;11000000;San Lorenzo;CSKA Moscow;8500000
+20/21;Seko Fofana;25;9500000;Udinese Calcio;Lens;8500000
+20/21;Filip Stevanovic;18;8000000;Partizan;Man City U23;8500000
+20/21;Nikola Moro;22;6000000;Dinamo Zagreb;Dynamo Moscow;8500000
+20/21;Facundo Pellistri;18;1800000;Penarol;Man Utd;8500000
+20/21;Alberto Grassi;25;5500000;SSC Napoli;Parma;8450000
+20/21;Matheus Pereira;24;9500000;Sporting CP;West Brom;8250000
+20/21;Bouna Sarr;28;9000000;Marseille;Bayern Munich;8000000
+20/21;Yann Karamoh;22;7500000;Inter;Parma;8000000
+20/21;Sam Lammers;23;7000000;PSV Eindhoven;Atalanta BC;8000000
+20/21;Mohamed Fares;24;7000000;SPAL;Lazio;8000000
+20/21;Luis Henrique;18;5000000;Tres Passos;Marseille;8000000
+20/21;Abel Ruiz;20;4500000;Barcelona B;SC Braga;8000000
+20/21;Terem Moffi;21;3000000;KV Kortrijk;FC Lorient;8000000
+20/21;Marley Ake;20;2500000;Marseille;Juventus U23;8000000
+20/21;Bruno Fuchs;21;1800000;Internacional;CSKA Moscow;8000000
+20/21;Sven Botman;20;1300000;Ajax U21;LOSC Lille;8000000
+20/21;Caio Henrique;23;1200000;Atletico Madrid;Monaco;8000000
+20/21;Robson Bambu;22;800000;Athletico-PR;OGC Nice;8000000
+20/21;Elia Petrelli;19;250000;Juventus U23;Genoa;8000000
+20/21;Franco Tongya;18;;Juventus U23;Marseille B;8000000
+20/21;Philipp Max;26;15000000;FC Augsburg;PSV Eindhoven;7700000
+20/21;Alexis Saelemaekers;21;8000000;RSC Anderlecht;AC Milan;7650000
+20/21;Matheus Pereira;22;1300000;Juventus U23;Barcelona B;7600000
+20/21;Karol Linetty;25;10000000;Sampdoria;Torino;7500000
+20/21;Paul Bernardoni;23;5500000;G. Bordeaux;Angers SCO;7500000
+20/21;Talles Magno;18;8000000;Vasco da Gama;New York City;7270000
+20/21;Gregor Kobel;22;4000000;TSG Hoffenheim;VfB Stuttgart;7200000
+20/21;Francis Coquelin;29;14000000;Valencia;Villarreal;7100000
+20/21;Dudu;28;12000000;Palmeiras;Al-Duhail SC;7000000
+20/21;Irfan Can Kahveci;25;10000000;Basaksehir;Fenerbahce;7000000
+20/21;Ibrahim Sangare;22;9500000;Toulouse;PSV Eindhoven;7000000
+20/21;Luis Suarez;22;7500000;Watford;Granada CF;7000000
+20/21;Alexander Schwolow;28;7000000;SC Freiburg;Hertha BSC;7000000
+20/21;Ondrej Duda;25;7000000;Hertha BSC;1. FC Koln;7000000
+20/21;Felix Uduokhai;22;6800000;VfL Wolfsburg;FC Augsburg;7000000
+20/21;Leonardo Bittencourt;26;4800000;TSG Hoffenheim;Werder Bremen;7000000
+20/21;Jordan Lotomba;21;4000000;BSC Young Boys;OGC Nice;7000000
+20/21;Amine Gouiri;20;4000000;Olympique Lyon;OGC Nice;7000000
+20/21;Francesco Cassata;23;2500000;Sassuolo;Genoa;7000000
+20/21;Simone Muratore;22;500000;Juventus;Atalanta BC;7000000
+20/21;Ciro Palmieri;20;75000;Napoli U19;LOSC Lille B;7000000
+20/21;Maxime Busi;20;2500000;RSC Charleroi;Parma;6900000
+20/21;Mikkel Damsgaard;20;6500000;Nordsjaelland;Sampdoria;6750000
+20/21;Ante Rebic;26;32000000;E. Frankfurt;AC Milan;6700000
+20/21;Sebastian Andersson;29;7000000;Union Berlin;1. FC Koln;6500000
+20/21;Pedro Goncalves;22;7000000;Famalicao;Sporting CP;6500000
+20/21;Nahuel Bustos;22;6700000;CA Talleres;Man City;6500000
+20/21;Antonio Sanabria;24;6500000;Real Betis;Torino;6500000
+20/21;Oliver Burke;23;4800000;West Brom;Sheff Utd;6500000
+20/21;Illan Meslier;20;4500000;FC Lorient;Leeds;6500000
+20/21;Lucas Verissimo;25;4000000;Santos;Benfica;6500000
+20/21;Harrison Reed;25;2400000;Southampton;Fulham;6500000
+20/21;Hernani;26;5500000;Zenit S-Pb;Parma;6470000
+20/21;Papu Gomez;32;15000000;Atalanta BC;Sevilla FC;6400000
+20/21;Lucas Robertone;23;6500000;Velez Sarsfield;UD Almeria;6400000
+20/21;Simon Sohm;19;1100000;FC Zurich;Parma;6400000
+20/21;Marcelino Moreno;25;4000000;Lanus;Atlanta;6360000
+20/21;Stephy Mavididi;22;3600000;Juventus U23;Montpellier;6300000
+20/21;Sergio Rico;27;8000000;Sevilla FC;Paris SG;6000000
+20/21;Praxedes;19;5000000;Internacional;RB Bragantino;6000000
+20/21;Pablo Mari;26;4800000;Flamengo;Arsenal;6000000
+20/21;Jonas Omlin;26;4800000;FC Basel;Montpellier;6000000
+20/21;Guilherme;29;4500000;Olympiacos;Al-Sadd SC;6000000
+20/21;Ignatius Ganago;21;3600000;OGC Nice;Lens;6000000
+20/21;Yan Couto;18;3600000;Coritiba FC;Man City;6000000
+20/21;Arthur Cabral;22;2700000;Palmeiras;FC Basel;6000000
+20/21;Nurio Fortuna;25;2000000;RSC Charleroi;KAA Gent;6000000
+20/21;Vladimir Coufal;28;2000000;Slavia Prague;West Ham;6000000
+20/21;Michael Olunga;26;950000;Kashiwa Reysol;Al-Duhail SC;6000000
+20/21;Diego Rosa;18;;Gremio;Man City;6000000
+21/22;Jack Grealish;25;65000000;Aston Villa;Man City;117500000
+21/22;Romelu Lukaku;28;100000000;Inter;Chelsea;113000000
+21/22;Jadon Sancho;21;100000000;Bor. Dortmund;Man Utd;85000000
+21/22;Dusan Vlahovic;22;70000000;Fiorentina;Juventus;81600000
+21/22;Achraf Hakimi;22;60000000;Inter;Paris SG;68000000
+21/22;Ben White;23;28000000;Brighton;Arsenal;58500000
+21/22;Ferran Torres;21;45000000;Man City;Barcelona;55000000
+21/22;Luis Diaz;25;40000000;FC Porto;Liverpool;47000000
+21/22;Dayot Upamecano;22;60000000;RB Leipzig;Bayern Munich;42500000
+21/22;Bruno Guimaraes;24;30000000;Olympique Lyon;Newcastle;42100000
+21/22;Raphael Varane;28;70000000;Real Madrid;Man Utd;40000000
+21/22;Tammy Abraham;23;38000000;Chelsea;AS Roma;40000000
+21/22;Ibrahima Konate;22;35000000;RB Leipzig;Liverpool;40000000
+21/22;Emiliano Buendia;24;35000000;Norwich;Aston Villa;38400000
+21/22;Martin Odegaard;22;40000000;Real Madrid;Arsenal;35000000
+21/22;Rodrigo de Paul;27;38000000;Udinese Calcio;Atletico Madrid;35000000
+21/22;Kurt Zouma;26;32000000;Chelsea;West Ham;35000000
+21/22;Leon Bailey;24;35000000;B. Leverkusen;Aston Villa;32000000
+21/22;Fikayo Tomori;23;28000000;Chelsea;AC Milan;31600000
+21/22;Eduardo Camavinga;18;55000000;Rennes;Real Madrid;31000000
+21/22;Donyell Malen;22;30000000;PSV Eindhoven;Bor. Dortmund;30000000
+21/22;Lucas Digne;28;30000000;Everton;Aston Villa;30000000
+21/22;Nikola Vlasic;23;30000000;CSKA Moscow;West Ham;30000000
+21/22;Matheus Cunha;22;30000000;Hertha BSC;Atletico Madrid;30000000
+21/22;Patson Daka;22;22000000;RB Salzburg;Leicester;30000000
+21/22;Chris Wood;30;6000000;Burnley;Newcastle;30000000
+21/22;Danny Ings;29;22000000;Southampton;Aston Villa;29400000
+21/22;Joe Willock;21;16000000;Arsenal;Newcastle;29400000
+21/22;Daniel James;23;18000000;Man Utd;Leeds;29100000
+21/22;Aaron Ramsdale;23;12000000;Sheff Utd;Arsenal;28000000
+21/22;Marash Kumbulla;21;25000000;Hellas Verona;AS Roma;26500000
+21/22;Bryan Gil;20;30000000;Sevilla FC;Tottenham;25000000
+21/22;Emerson Royal;22;25000000;Barcelona;Tottenham;25000000
+21/22;Yuri Alberto;20;12000000;Internacional;Zenit S-Pb;25000000
+21/22;Nicolas Gonzalez;23;22000000;VfB Stuttgart;Fiorentina;24500000
+21/22;Vitaliy Mykolenko;22;17000000;Dynamo Kyiv;Everton;23500000
+21/22;Arnaut Danjuma;24;15000000;Bournemouth;Villarreal;23500000
+21/22;Marc Guehi;21;10000000;Chelsea U23;Crystal Palace;23340000
+21/22;Andre Silva;25;45000000;E. Frankfurt;RB Leipzig;23000000
+21/22;Enock Mwepu;23;13000000;RB Salzburg;Brighton;23000000
+21/22;Odilon Kossounou;20;13000000;Club Brugge;B. Leverkusen;23000000
+21/22;Julian Alvarez;22;20000000;River Plate;Man City;21400000
+21/22;Matteo Politano;27;30000000;Inter;SSC Napoli;21000000
+21/22;Weston McKennie;22;25000000;FC Schalke 04;Juventus;20500000
+21/22;Juan Musso;27;20000000;Udinese Calcio;Atalanta BC;20500000
+21/22;Gerson;24;20000000;Flamengo;Marseille;20500000
+21/22;Boubakary Soumare;22;28000000;LOSC Lille;Leicester;20000000
+21/22;Jhon Cordoba;28;15000000;Hertha BSC;Krasnodar;20000000
+21/22;Rodrigo Bentancur;24;25000000;Juventus;Tottenham;19000000
+21/22;Josko Gvardiol;19;19000000;Dinamo Zagreb;RB Leipzig;18800000
+21/22;Takehiro Tomiyasu;22;20000000;Bologna;Arsenal;18600000
+21/22;Angelino;24;35000000;Man City;RB Leipzig;18000000
+21/22;Marc Cucurella;23;20000000;Getafe;Brighton;18000000
+21/22;Pedrinho;23;15000000;Benfica;Shakhtar D.;18000000
+21/22;Matheus Pereira;25;15000000;West Brom;Al-Hilal SFC;18000000
+21/22;Eldor Shomurodov;26;7000000;Genoa;AS Roma;18000000
+21/22;Adam Armstrong;24;18000000;Blackburn;Southampton;17700000
+21/22;Jannik Vestergaard;29;18000000;Southampton;Leicester;17600000
+21/22;Joachim Andersen;25;22000000;Olympique Lyon;Crystal Palace;17500000
+21/22;Wout Weghorst;29;20000000;VfL Wolfsburg;Burnley;17500000
+21/22;Albert Sambi Lokonga;21;12000000;RSC Anderlecht;Arsenal;17500000
+21/22;Cristiano Ronaldo;36;45000000;Juventus;Man Utd;17000000
+21/22;Cristian Romero;23;35000000;Juventus;Atalanta BC;17000000
+21/22;Roman Yaremchuk;25;17500000;KAA Gent;Benfica;17000000
+21/22;Myron Boadu;20;14000000;AZ Alkmaar;Monaco;17000000
+21/22;Loic Bade;21;12000000;Lens;Rennes;17000000
+21/22;Kamaldeen Sulemana;19;9000000;Nordsjaelland;Rennes;17000000
+21/22;Pape Matar Sarr;18;10000000;FC Metz;Tottenham;16900000
+21/22;Ricardo Pepi;18;8000000;Dallas;FC Augsburg;16360000
+21/22;Odsonne Edouard;23;17000000;Celtic;Crystal Palace;16300000
+21/22;Zinho Vanheusden;21;12000000;Standard Liege;Inter;16200000
+21/22;Ilaix Moriba;18;25000000;Barcelona B;RB Leipzig;16000000
+21/22;Danilo Pereira;29;20000000;FC Porto;Paris SG;16000000
+21/22;Hamed Junior Traore;21;20000000;FC Empoli;Sassuolo;16000000
+21/22;Rafa Mir;24;12000000;Wolves;Sevilla FC;16000000
+21/22;Kristoffer Ajer;23;7000000;Celtic;Brentford;15700000
+21/22;Arthur Cabral;23;15000000;FC Basel;Fiorentina;15500000
+21/22;Mike Maignan;26;25000000;LOSC Lille;AC Milan;15400000
+21/22;Pepe;24;13000000;Gremio;FC Porto;15400000
+21/22;Marcel Sabitzer;27;42000000;RB Leipzig;Bayern Munich;15000000
+21/22;Mohamed Simakan;21;18000000;R. Strasbourg;RB Leipzig;15000000
+21/22;Romain Faivre;23;15000000;Stade Brestois;Olympique Lyon;15000000
+21/22;Gaetan Laborde;27;15000000;Montpellier;Rennes;15000000
+21/22;Calvin Stengs;22;14000000;AZ Alkmaar;OGC Nice;15000000
+21/22;Gregor Kobel;23;13000000;VfB Stuttgart;Bor. Dortmund;15000000
+21/22;Benjamin Henrichs;24;12000000;Monaco;RB Leipzig;15000000
+21/22;Maxwel Cornet;24;12000000;Olympique Lyon;Burnley;15000000
+21/22;Juan Foyth;23;12000000;Tottenham;Villarreal;15000000
+21/22;Junior Firpo;24;8000000;Barcelona;Leeds;15000000
+21/22;Dan Burn;29;3500000;Brighton;Newcastle;15000000
+21/22;Thiago Almada;20;20000000;Velez Sarsfield;Atlanta;14550000
+21/22;Sandro Tonali;21;27000000;Brescia;AC Milan;14500000
+21/22;Musa Barrow;22;20000000;Atalanta BC;Bologna;14340000
+21/22;Denzel Dumfries;25;16000000;PSV Eindhoven;Inter;14250000
+21/22;Jonathan Ikone;23;22000000;LOSC Lille;Fiorentina;14200000
+21/22;Emerson Royal;22;25000000;Real Betis;Barcelona;14000000
+21/22;Kieran Trippier;31;18000000;Atletico Madrid;Newcastle;14000000
+21/22;Harry Wilson;24;17000000;Liverpool;Fulham;14000000
+21/22;Teun Koopmeiners;23;16500000;AZ Alkmaar;Atalanta BC;14000000
+21/22;Baptiste Santamaria;26;15000000;SC Freiburg;Rennes;14000000
+21/22;Nathan Collins;20;8000000;Stoke City;Burnley;14000000
+21/22;Nathan Patterson;20;3000000;Rangers;Everton;14000000
+21/22;Sebastiaan Bornauw;22;12000000;1. FC Koln;VfL Wolfsburg;13500000
+21/22;Toby Alderweireld;32;11000000;Tottenham;Al-Duhail SC;13000000
+21/22;Pol Lirola;24;9000000;Fiorentina;Marseille;13000000
+21/22;Matias Vina;23;5000000;Palmeiras;AS Roma;13000000
+21/22;Jack Harrison;24;15000000;Man City;Leeds;12800000
+21/22;Amadou Onana;19;3000000;Hamburger SV;LOSC Lille;12600000
+21/22;David Neres;24;20000000;Ajax;Shakhtar D.;12000000
+21/22;Luca Waldschmidt;25;15000000;Benfica;VfL Wolfsburg;12000000
+21/22;Boulaye Dia;24;14000000;Stade Reims;Villarreal;12000000
+21/22;Lovro Majer;23;13000000;Dinamo Zagreb;Rennes;12000000
+21/22;Claudinho;24;11000000;RB Bragantino;Zenit S-Pb;12000000
+21/22;Romain Perraud;23;8000000;Stade Brestois;Southampton;12000000
+21/22;Jonas Wind;22;7000000;FC Copenhagen;VfL Wolfsburg;12000000
+21/22;Marlon;25;6500000;Sassuolo;Shakhtar D.;12000000
+21/22;Mohamed Daramy;19;4000000;FC Copenhagen;Ajax;12000000
+21/22;Rui Patricio;33;10000000;Wolves;AS Roma;11800000
+21/22;Rayan Ait-Nouri;20;18000000;Angers SCO;Wolves;11100000
+21/22;Gonzalo Montiel;24;17000000;River Plate;Sevilla FC;11000000
+21/22;Christos Tzolis;19;12000000;PAOK Salonika;Norwich;11000000
+21/22;Kacper Kozlowski;18;10000000;Pogon Szczecin;Brighton;11000000
+21/22;Milot Rashica;25;9000000;Werder Bremen;Norwich;11000000
+21/22;Vanderson;20;8500000;Gremio;Monaco;11000000
+21/22;Leonardo Balerdi;22;8000000;Bor. Dortmund;Marseille;11000000
+21/22;Jean-Philippe Mateta;24;5000000;1.FSV Mainz 05;Crystal Palace;11000000
+21/22;Jean Lucas;23;4500000;Olympique Lyon;Monaco;11000000
+21/22;Luiz Araujo;25;10000000;LOSC Lille;Atlanta;10910000
+21/22;Diego Valdes;27;6000000;Santos Laguna;America;10600000
+21/22;Lautaro Valenti;22;4500000;Lanus;Parma;10500000
+21/22;Igor Coronado;28;5500000;Sharjah FC;Al-Ittihad Club;10150000
+21/22;Denis Zakaria;25;27000000;Bor. M'gladbach;Juventus;10100000
+21/22;Antoine Griezmann;30;60000000;Barcelona;Atletico Madrid;10000000
+21/22;Dejan Kulusevski;21;30000000;Juventus;Tottenham;10000000
+21/22;Andy Delort;29;16000000;Montpellier;OGC Nice;10000000
+21/22;Razvan Marin;25;15000000;Ajax;Cagliari Calcio;10000000
+21/22;Kayky;18;14000000;Fluminense;Man City U23;10000000
+21/22;Imran Louza;22;12000000;FC Nantes;Watford;10000000
+21/22;Yoane Wissa;24;10000000;FC Lorient;Brentford;10000000
+21/22;Lassina Traore;20;6500000;Ajax;Shakhtar D.;10000000
+21/22;Frank Onyeka;23;6000000;FC Midtjylland;Brentford;10000000
+21/22;Jens Cajuste;22;5000000;FC Midtjylland;Stade Reims;10000000
+21/22;Hannes Wolf;22;8000000;RB Leipzig;Bor. M'gladbach;9500000
+21/22;Josh Sargent;21;8000000;Werder Bremen;Norwich;9500000
+21/22;Michael Olise;19;15000000;Reading;Crystal Palace;9300000
+21/22;Ben Gibson;28;7000000;Burnley;Norwich;9300000
+21/22;Galeno;24;12000000;SC Braga;FC Porto;9020000
+21/22;Roger Ibanez;22;25000000;Atalanta BC;AS Roma;9000000
+21/22;Kamal Sowah;21;3000000;Leicester U21;Club Brugge;9000000
+21/22;Daryl Dike;21;10000000;Orlando;West Brom;8630000
+21/22;Taiwo Awoniyi;23;5000000;Liverpool;Union Berlin;8550000
+21/22;Jean-Clair Todibo;21;12000000;Barcelona;OGC Nice;8500000
+21/22;Yacine Adli;21;9000000;G. Bordeaux;AC Milan;8500000
+21/22;Marcos Andre;24;3500000;Real Valladolid;Valencia;8500000
+21/22;Andreas Cornelius;28;6000000;Atalanta BC;Parma;8400000
+21/22;James Rodriguez;30;28000000;Everton;Al-Rayyan SC;8000000
+21/22;Khvicha Kvaratskhelia;21;16000000;Rubin Kazan;Dinamo Batumi;8000000
+21/22;Lukas Nmecha;22;12000000;Man City;VfL Wolfsburg;8000000
+21/22;Abdallah Sima;20;11000000;Slavia Prague;Brighton;8000000
+21/22;Talisca;27;10000000;GuaZ FC;Al-Nassr FC;8000000
+21/22;Ante Budimir;29;9000000;RCD Mallorca;CA Osasuna;8000000
+21/22;Suat Serdar;24;9000000;FC Schalke 04;Hertha BSC;8000000
+21/22;Jose Sa;28;7500000;Olympiacos;Wolves;8000000
+21/22;Junior Alonso;28;7000000;Atletico-MG;Krasnodar;8000000
+21/22;Nuno Tavares;21;7000000;Benfica;Arsenal;8000000
+21/22;Aster Vranckx;18;6800000;KV Mechelen;VfL Wolfsburg;8000000
+21/22;Shamar Nicholson;24;6500000;RSC Charleroi;Spartak Moscow;8000000
+21/22;Rodrigo Muniz;20;3000000;Flamengo;Fulham;8000000
+21/22;Marcus Edwards;23;13000000;Vit. Guimaraes;Sporting CP;7750000
+21/22;Wylan Cyprien;26;6000000;OGC Nice;Parma;7650000
+21/22;Michael;25;7000000;Flamengo;Al-Hilal SFC;7600000
+21/22;Alban Lafont;22;10000000;Fiorentina;FC Nantes;7500000
+21/22;Ivan Ilic;20;8000000;Man City U23;Hellas Verona;7500000
+21/22;Maximilian Philipp;27;7000000;Dynamo Moscow;VfL Wolfsburg;7500000
+21/22;Dimitrios Giannoulis;25;7000000;PAOK Salonika;Norwich;7500000
+21/22;Amine Adli;21;6000000;Toulouse;B. Leverkusen;7500000
+21/22;Lyanco;24;5000000;Torino;Southampton;7500000
+21/22;Erik Botheim;21;4000000;Bodo/Glimt;Krasnodar;7500000
+21/22;Denis Makarov;23;4000000;Rubin Kazan;Dynamo Moscow;7500000
+21/22;Matteo Lovato;21;7000000;Hellas Verona;Atalanta BC;7200000
+21/22;Toma Basic;24;9000000;G. Bordeaux;Lazio;7100000
+21/22;Marco Richter;23;5000000;FC Augsburg;Hertha BSC;7100000
+21/22;Nuno Mendes;19;40000000;Sporting CP;Paris SG;7000000
+21/22;Moise Kean;21;35000000;Everton;Juventus;7000000
+21/22;Mitchel Bakker;21;10000000;Paris SG;B. Leverkusen;7000000
+21/22;Xherdan Shaqiri;30;8000000;Olympique Lyon;Chicago;7000000
+21/22;Niklas Dorsch;23;8000000;KAA Gent;FC Augsburg;7000000
+21/22;Will Hughes;26;7000000;Watford;Crystal Palace;7000000
+21/22;Jesper Lindstrom;21;7000000;Brondby IF;E. Frankfurt;7000000
+21/22;Gyrano Kerk;25;6000000;FC Utrecht;Loko Moscow;7000000
+21/22;Anders Dreyer;23;6000000;FC Midtjylland;Rubin Kazan;7000000
+21/22;Deniz Undav;25;5000000;Union SG;Brighton;7000000
+21/22;Manuel Ugarte;20;5000000;Famalicao;Sporting CP;7000000
+21/22;Jesus Angulo;23;4000000;Atlas;Tigres UANL;7000000
+21/22;Victor Nelsson;22;3500000;FC Copenhagen;Galatasaray;7000000
+21/22;Mert Cetin;24;2800000;AS Roma;Hellas Verona;7000000
+21/22;Konstantin Maradishvili;21;2500000;CSKA Moscow;Loko Moscow;7000000
+21/22;Edon Zhegrova;22;2000000;FC Basel;LOSC Lille;7000000
+21/22;Billal Brahimi;21;1200000;Angers SCO;OGC Nice;7000000
+21/22;Bryan Reynolds;20;6000000;Dallas;AS Roma;6850000
+21/22;Facundo Torres;21;6000000;Penarol;Orlando;6820000
+21/22;Martin Payero;22;5000000;Banfield;Middlesbrough;6750000
+21/22;Kevin Paredes;18;4000000;D.C. United;VfL Wolfsburg;6680000
+21/22;Ismail Jakobs;21;7000000;1. FC Koln;Monaco;6500000
+21/22;Robert Andrich;26;7000000;Union Berlin;B. Leverkusen;6500000
+21/22;Alexandru Cicaldau;24;6500000;CS U Craiova;Galatasaray;6500000
+21/22;Kevin Lasagna;28;6000000;Udinese Calcio;Hellas Verona;6500000
+21/22;Sead Haksabanovic;22;5500000;Norrkoping;Rubin Kazan;6500000
+21/22;Stanley Nsoki;22;5000000;OGC Nice;Club Brugge;6500000
+21/22;Ederson;22;5000000;Corinthians;Salernitana;6500000
+21/22;Kelvin Yeboah;21;4000000;Sturm Graz;Genoa;6500000
+21/22;Sebastian Driussi;25;7500000;Zenit S-Pb;Austin;6400000
+21/22;Andreas Skov Olsen;22;6500000;Bologna;Club Brugge;6400000
+21/22;Alan Velasco;19;12000000;Independiente;Dallas;6360000
+21/22;Tajon Buchanan;22;8500000;New England;Club Brugge;6360000
+21/22;Piero Hincapie;19;8000000;CA Talleres;B. Leverkusen;6350000
+21/22;Ake Loba;23;3000000;Monterrey;Nashville;6180000
+21/22;Joaquin Correa;27;30000000;Lazio;Inter;6000000
+21/22;Trincao;21;22000000;Barcelona;Wolves;6000000
+21/22;Noa Lang;22;22000000;Ajax;Club Brugge;6000000
+21/22;Patrick de Paula;22;16000000;Palmeiras;Botafogo;6000000
+21/22;Thomas Delaney;29;15000000;Bor. Dortmund;Sevilla FC;6000000
+21/22;Antonin Barak;26;14000000;Udinese Calcio;Hellas Verona;6000000
+21/22;Xherdan Shaqiri;29;12000000;Liverpool;Olympique Lyon;6000000
+21/22;Jakub Jankto;25;11000000;Sampdoria;Getafe;6000000
+21/22;Marko Arnautovic;32;10000000;SH Port;Bologna;6000000
+21/22;Davide Zappacosta;29;8000000;Chelsea;Atalanta BC;6000000
+21/22;Joey Veerman;23;7000000;Heerenveen;PSV Eindhoven;6000000
+21/22;Gianluca Busio;19;6000000;Kansas City;Venezia;6000000
+21/22;Pablo Rosario;24;6000000;PSV Eindhoven;OGC Nice;6000000
+21/22;Soualiho Meite;27;5000000;Torino;Benfica;6000000
+21/22;Igor;23;5000000;SPAL;Fiorentina;6000000
+21/22;Ally Samatta;28;4200000;Aston Villa;Fenerbahce;6000000
+21/22;Vitinho;22;3500000;Athletico-PR;Dynamo Kyiv;6000000
+21/22;Vinicius Tobias;17;3000000;Internacional;Shakhtar D.;6000000
+21/22;Gabriel Gudmundsson;22;1800000;FC Groningen;LOSC Lille;6000000
+21/22;Alexis Beka Beka;20;800000;SM Caen;Loko Moscow;6000000
+21/22;David Zima;20;7500000;Slavia Prague;Torino;5900000
+21/22;Tino Livramento;18;;Chelsea U23;Southampton;5900000
+21/22;Kevin Bonifazi;25;7000000;SPAL;Bologna;5850000
+21/22;Angus Gunn;25;3000000;Southampton;Norwich;5850000
+21/22;Matias Arezo;19;7000000;River Plate;Granada CF;5700000
+21/22;Willian Pacho;20;2500000;Independiente;Royal Antwerp;5570000
+21/22;Steven Berghuis;29;12000000;Feyenoord;Ajax;5500000
+21/22;Ludwig Augustinsson;27;10000000;Werder Bremen;Sevilla FC;5500000
+21/22;Marvin Friedrich;26;10000000;Union Berlin;Bor. M'gladbach;5500000
+21/22;Mario Lemina;27;10000000;Southampton;OGC Nice;5500000
+21/22;Ricardo Esgaio;28;6000000;SC Braga;Sporting CP;5500000
+21/22;Ernesto Torregrossa;29;5500000;Brescia;Sampdoria;5500000
+21/22;Thomas Henry;26;5000000;OH Leuven;Venezia;5500000
+22/23;Enzo Fernandez;22;55000000;Benfica;Chelsea;121000000
+22/23;Antony;22;35000000;Ajax;Man Utd;95000000
+22/23;Wesley Fofana;21;40000000;Leicester;Chelsea;80400000
+22/23;Aurelien Tchouameni;22;60000000;Monaco;Real Madrid;80000000
+22/23;Darwin Nunez;23;55000000;Benfica;Liverpool;80000000
+22/23;Casemiro;30;40000000;Real Madrid;Man Utd;70650000
+22/23;Mykhaylo Mudryk;22;40000000;Shakhtar D.;Chelsea;70000000
+22/23;Alexander Isak;22;30000000;Real Sociedad;Newcastle;70000000
+22/23;Matthijs de Ligt;22;70000000;Juventus;Bayern Munich;67000000
+22/23;Marc Cucurella;24;28000000;Brighton;Chelsea;65300000
+22/23;Erling Haaland;21;150000000;Bor. Dortmund;Man City;60000000
+22/23;Richarlison;25;48000000;Everton;Tottenham;58000000
+22/23;Raphinha;25;45000000;Leeds;Barcelona;58000000
+22/23;Lisandro Martinez;24;32000000;Ajax;Man Utd;57370000
+22/23;Raheem Sterling;27;70000000;Man City;Chelsea;56200000
+22/23;Gabriel Jesus;25;50000000;Man City;Arsenal;52200000
+22/23;Jules Kounde;23;60000000;Sevilla FC;Barcelona;50000000
+22/23;Cristian Romero;24;48000000;Atalanta BC;Tottenham;50000000
+22/23;Kalvin Phillips;26;50000000;Leeds;Man City;49000000
+22/23;Anthony Gordon;21;40000000;Everton;Newcastle;45600000
+22/23;Robert Lewandowski;33;45000000;Bayern Munich;Barcelona;45000000
+22/23;Matheus Nunes;23;35000000;Sporting CP;Wolves;45000000
+22/23;Enzo Fernandez;21;15000000;River Plate;Benfica;44250000
+22/23;Lucas Paqueta;25;35000000;Olympique Lyon;West Ham;42950000
+22/23;Federico Chiesa;24;65000000;Fiorentina;Juventus;42500000
+22/23;Cody Gakpo;23;60000000;PSV Eindhoven;Liverpool;42000000
+22/23;Vitinha;22;30000000;FC Porto;Paris SG;41500000
+22/23;Bremer;25;35000000;Torino;Juventus;41000000
+22/23;Benoit Badiashile;21;40000000;Monaco;Chelsea;38000000
+22/23;Nuno Mendes;20;40000000;Sporting CP;Paris SG;38000000
+22/23;Kalidou Koulibaly;31;35000000;SSC Napoli;Chelsea;38000000
+22/23;Sven Botman;22;30000000;LOSC Lille;Newcastle;37000000
+22/23;Gianluca Scamacca;23;30000000;Sassuolo;West Ham;36000000
+22/23;Fabio Vieira;22;25000000;FC Porto;Arsenal;35000000
+22/23;Oleksandr Zinchenko;25;25000000;Man City;Arsenal;35000000
+22/23;Noni Madueke;20;15000000;PSV Eindhoven;Chelsea;35000000
+22/23;Nayef Aguerd;26;12000000;Rennes;West Ham;35000000
+22/23;Amadou Onana;20;10000000;LOSC Lille;Everton;35000000
+22/23;Brenden Aaronson;21;25000000;RB Salzburg;Leeds;32840000
+22/23;Goncalo Guedes;25;40000000;Valencia;Wolves;32600000
+22/23;Sadio Mane;30;70000000;Liverpool;Bayern Munich;32000000
+22/23;Charles De Ketelaere;21;30000000;Club Brugge;AC Milan;32000000
+22/23;Vitinha;22;15000000;SC Braga;Marseille;32000000
+22/23;Steven Bergwijn;24;18000000;Tottenham;Ajax;31250000
+22/23;Diego Carlos;29;40000000;Sevilla FC;Aston Villa;31000000
+22/23;Sebastien Haller;28;35000000;Ajax;Bor. Dortmund;31000000
+22/23;Karim Adeyemi;20;35000000;RB Salzburg;Bor. Dortmund;30000000
+22/23;Malo Gusto;19;15000000;Olympique Lyon;Chelsea;30000000
+22/23;Morgan Gibbs-White;22;11000000;Wolves;Nottm Forest;29500000
+22/23;Yves Bissouma;25;35000000;Brighton;Tottenham;29200000
+22/23;Amine Gouiri;22;42000000;OGC Nice;Rennes;28000000
+22/23;Georginio Rutter;20;16000000;TSG Hoffenheim;Leeds;28000000
+22/23;David Raum;24;20000000;TSG Hoffenheim;RB Leipzig;26000000
+22/23;Luis Sinisterra;23;25000000;Feyenoord;Leeds;25000000
+22/23;Kamaldeen Sulemana;20;18000000;Rennes;Southampton;25000000
+22/23;Jakub Kiwior;22;8000000;Spezia Calcio;Arsenal;25000000
+22/23;Nathan Collins;21;10000000;Burnley;Wolves;24300000
+22/23;Leandro Trossard;28;30000000;Brighton;Arsenal;24000000
+22/23;Joaquin Correa;27;23000000;Lazio;Inter;23600000
+22/23;Fabian Ruiz;26;55000000;SSC Napoli;Paris SG;23000000
+22/23;Calvin Bassey;22;10000000;Rangers;Ajax;23000000
+22/23;Ilya Zabarnyi;20;15000000;Dynamo Kyiv;Bournemouth;22700000
+22/23;Cheick Doucoure;22;15000000;Lens;Crystal Palace;22600000
+22/23;Dango Ouattara;20;10000000;FC Lorient;Bournemouth;22500000
+22/23;Sofiane Diop;22;20000000;Monaco;OGC Nice;22000000
+22/23;Jeremie Boga;25;19000000;Sassuolo;Atalanta BC;22000000
+22/23;Ederson;23;13000000;Salernitana;Atalanta BC;21400000
+22/23;Merih Demiral;24;25000000;Juventus;Atalanta BC;21000000
+22/23;Maxwel Cornet;25;15000000;Burnley;West Ham;20700000
+22/23;Taiwo Awoniyi;24;20000000;Union Berlin;Nottm Forest;20500000
+22/23;David Carmo;22;15000000;SC Braga;FC Porto;20280000
+22/23;Timo Werner;26;35000000;Chelsea;RB Leipzig;20000000
+22/23;Nico Schlotterbeck;22;33000000;SC Freiburg;Bor. Dortmund;20000000
+22/23;Danilo;21;25000000;Palmeiras;Nottm Forest;20000000
+22/23;Joao Palhinha;27;25000000;Sporting CP;Fulham;20000000
+22/23;Philippe Coutinho;30;20000000;Barcelona;Aston Villa;20000000
+22/23;Nahuel Molina;24;20000000;Udinese Calcio;Atletico Madrid;20000000
+22/23;Umar Sadiq;25;18000000;UD Almeria;Real Sociedad;20000000
+22/23;Arnaud Kalimuendo;20;18000000;Paris SG;Rennes;20000000
+22/23;Neco Williams;21;8000000;Liverpool;Nottm Forest;20000000
+22/23;Mathys Tel;17;2000000;Rennes;Bayern Munich;20000000
+22/23;Arthur Theate;22;15000000;Bologna;Rennes;19000000
+22/23;Keane Lewis-Potter;21;12000000;Hull City;Brentford;19000000
+22/23;Hassane Kamara;28;4000000;Watford;Udinese Calcio;19000000
+22/23;Joao Gomes;21;15000000;Flamengo;Wolves;18700000
+22/23;Ryan Gravenberch;20;35000000;Ajax;Bayern Munich;18500000
+22/23;Min-jae Kim;25;14000000;Fenerbahce;SSC Napoli;18050000
+22/23;Carlos Soler;25;50000000;Valencia;Paris SG;18000000
+22/23;Sasa Kalajdzic;25;25000000;VfB Stuttgart;Wolves;18000000
+22/23;Destiny Udogie;19;17000000;Udinese Calcio;Tottenham;18000000
+22/23;Paul Onuachu;28;15000000;KRC Genk;Southampton;18000000
+22/23;Carney Chukwuemeka;18;6000000;Aston Villa;Chelsea;18000000
+22/23;Pervis Estupinan;24;20000000;Villarreal;Brighton;17800000
+22/23;Issa Diop;25;10000000;West Ham;Fulham;17800000
+22/23;Manuel Akanji;27;30000000;Bor. Dortmund;Man City;17500000
+22/23;Matt Targett;26;17000000;Aston Villa;Newcastle;17500000
+22/23;Rasmus Hojlund;19;4500000;Sturm Graz;Atalanta BC;17200000
+22/23;Dwight McNeil;22;18000000;Burnley;Everton;17000000
+22/23;Tyler Adams;23;17000000;RB Leipzig;Leeds;17000000
+22/23;Roman Yaremchuk;26;15000000;Benfica;Club Brugge;17000000
+22/23;Wout Faes;24;10000000;Stade Reims;Leicester;17000000
+22/23;Harry Souttar;24;6000000;Stoke City;Leicester;17000000
+22/23;Hee-chan Hwang;26;16000000;RB Leipzig;Wolves;16700000
+22/23;Jhon Duran;19;6000000;Chicago;Aston Villa;16640000
+22/23;Aaron Hickey;20;18000000;Bologna;Brentford;16500000
+22/23;Mathias Olivera;24;15000000;Getafe;SSC Napoli;16500000
+22/23;Brian Brobbey;20;9000000;RB Leipzig;Ajax;16350000
+22/23;Frank Anguissa;26;30000000;Fulham;SSC Napoli;16000000
+22/23;Tanguy Nianzou;20;9000000;Bayern Munich;Sevilla FC;16000000
+22/23;Emerson;28;14000000;Chelsea;West Ham;15400000
+22/23;David Neres;25;20000000;Shakhtar D.;Benfica;15300000
+22/23;Nicolo Zaniolo;23;30000000;AS Roma;Galatasaray;15000000
+22/23;Leander Dendoncker;27;28000000;Wolves;Aston Villa;15000000
+22/23;Renato Sanches;24;28000000;LOSC Lille;Paris SG;15000000
+22/23;Mohamed Camara;22;27000000;RB Salzburg;Monaco;15000000
+22/23;Gaetan Laborde;28;18000000;Rennes;OGC Nice;15000000
+22/23;Gerson;25;18000000;Marseille;Flamengo;15000000
+22/23;Marcos Senesi;25;17000000;Feyenoord;Bournemouth;15000000
+22/23;Tyrell Malacia;22;17000000;Feyenoord;Man Utd;15000000
+22/23;Mikkel Damsgaard;22;15000000;Sampdoria;Brentford;15000000
+22/23;Takumi Minamino;27;12000000;Liverpool;Monaco;15000000
+22/23;Cesare Casadei;19;1000000;Inter U19;Chelsea U21;15000000
+22/23;Emmanuel Dennis;24;14000000;Watford;Nottm Forest;14800000
+22/23;Djed Spence;21;8000000;Middlesbrough;Tottenham;14700000
+22/23;Dodo;23;20000000;Shakhtar D.;Fiorentina;14500000
+22/23;Brais Mendez;25;18000000;Celta de Vigo;Real Sociedad;14000000
+22/23;Everton;26;15000000;Benfica;Flamengo;14000000
+22/23;Mohamed Bayo;24;12000000;Clermont Foot;LOSC Lille;14000000
+22/23;Gavin Bazunu;20;5000000;Man City U21;Southampton;14000000
+22/23;Victor Kristiansen;20;4000000;FC Copenhagen;Leicester;14000000
+22/23;Carlos Alcaraz;20;8500000;Racing Club;Southampton;13650000
+22/23;Alex Moreno;29;20000000;Real Betis;Aston Villa;13500000
+22/23;Filip Kostic;29;24000000;E. Frankfurt;Juventus;13000000
+22/23;Adam Hlozek;19;20000000;Sparta Prague;B. Leverkusen;13000000
+22/23;Orel Mangala;24;15000000;VfB Stuttgart;Nottm Forest;13000000
+22/23;Rasmus Kristensen;24;15000000;RB Salzburg;Leeds;13000000
+22/23;Fredrik Aursnes;26;12000000;Feyenoord;Benfica;13000000
+22/23;Lucas Gourna-Douath;18;10000000;Saint-Etienne;RB Salzburg;13000000
+22/23;Sergio Gomez;21;10000000;RSC Anderlecht;Man City;13000000
+22/23;Mattia Viti;20;7000000;FC Empoli;OGC Nice;13000000
+22/23;Sekou Mara;20;3000000;G. Bordeaux;Southampton;13000000
+22/23;Breel Embolo;25;15000000;Bor. M'gladbach;Monaco;12500000
+22/23;Andrey Santos;18;10000000;Vasco da Gama;Chelsea;12500000
+22/23;Jorgen Strand Larsen;22;6000000;FC Groningen;Celta de Vigo;12400000
+22/23;Romeo Lavia;18;2000000;Man City U21;Southampton;12300000
+22/23;Fernando Gorriaran;28;9000000;Santos Laguna;Tigres UANL;12200000
+22/23;Xaver Schlager;24;27000000;VfL Wolfsburg;RB Leipzig;12000000
+22/23;Thilo Kehrer;25;22000000;Paris SG;West Ham;12000000
+22/23;Nordi Mukiele;24;20000000;RB Leipzig;Paris SG;12000000
+22/23;Danny Ings;30;16000000;Aston Villa;West Ham;12000000
+22/23;Pierre-Emerick Aubameyang;33;15000000;Barcelona;Chelsea;12000000
+22/23;Marcao;26;14000000;Galatasaray;Sevilla FC;12000000
+22/23;Maximilian Wober;24;12000000;RB Salzburg;Leeds;12000000
+22/23;Pau Lopez;27;12000000;AS Roma;Marseille;12000000
+22/23;Chris Richards;22;7500000;Bayern Munich;Crystal Palace;12000000
+22/23;Stanley Nsoki;23;7000000;Club Brugge;TSG Hoffenheim;12000000
+22/23;David Datro Fofana;20;7000000;Molde FK;Chelsea;12000000
+22/23;Marc Roca;25;7000000;Bayern Munich;Leeds;12000000
+22/23;Naouirou Ahamada;20;5500000;VfB Stuttgart;Crystal Palace;12000000
+22/23;Agustin Alvarez;21;4000000;Penarol;Sassuolo;12000000
+22/23;Alexis Beka Beka;21;3000000;Loko Moscow;OGC Nice;12000000
+22/23;Marcus Tavernier;23;4500000;Middlesbrough;Bournemouth;11900000
+22/23;Neal Maupay;26;18000000;Brighton;Everton;11800000
+22/23;Julio Enciso;18;11000000;Libertad;Brighton;11600000
+22/23;Nick Pope;30;15000000;Burnley;Newcastle;11500000
+22/23;Khvicha Kvaratskhelia;21;15000000;Dinamo Batumi;SSC Napoli;11500000
+22/23;Youssouf Ndayishimiye;24;7000000;Basaksehir;OGC Nice;11500000
+22/23;Jorginho;31;35000000;Chelsea;Arsenal;11300000
+22/23;Joao Felix;23;50000000;Atletico Madrid;Chelsea;11000000
+22/23;Matteo Guendouzi;23;25000000;Arsenal;Marseille;11000000
+22/23;Jordan Veretout;29;17000000;AS Roma;Marseille;11000000
+22/23;Momo Cho;18;15000000;Angers SCO;Real Sociedad;11000000
+22/23;Armel Bella-Kotchap;20;10000000;VfL Bochum;Southampton;11000000
+22/23;Maximo Perrone;20;8500000;Velez Sarsfield;Man City;11000000
+22/23;Jean-Victor Makengo;24;7500000;Udinese Calcio;FC Lorient;11000000
+22/23;Mario Lemina;29;7000000;OGC Nice;Wolves;11000000
+22/23;Amin Sarr;21;3500000;Heerenveen;Olympique Lyon;11000000
+22/23;Lyle Foster;22;2000000;KVC Westerlo;Burnley;11000000
+22/23;Flynn Downes;23;2000000;Swansea;West Ham;10650000
+22/23;Giovanni Simeone;27;17000000;Cagliari Calcio;Hellas Verona;10500000
+22/23;Gabriel Sara;23;6500000;Sao Paulo;Norwich;10500000
+22/23;James Garner;21;7000000;Man Utd U21;Everton;10400000
+22/23;Luis Maximiano;23;12000000;Granada CF;Lazio;10260000
+22/23;Gabriel Veron;19;12000000;Palmeiras;FC Porto;10250000
+22/23;Antoine Semenyo;23;3000000;Bristol City;Bournemouth;10250000
+22/23;Nicolas Ibanez;28;7500000;Pachuca;Tigres UANL;10100000
+22/23;Moussa Niakhate;26;18000000;1.FSV Mainz 05;Nottm Forest;10000000
+22/23;Jerry St. Juste;25;16000000;1.FSV Mainz 05;Sporting CP;10000000
+22/23;Willian Jose;30;12000000;Real Sociedad;Real Betis;10000000
+22/23;Owen Wijndal;22;12000000;AZ Alkmaar;Ajax;10000000
+22/23;Jakub Kaminski;20;10000000;Lech Poznan;VfL Wolfsburg;10000000
+22/23;Borja Mayoral;25;9000000;Real Madrid;Getafe;10000000
+22/23;Luis Suarez;24;9000000;Granada CF;Marseille;10000000
+22/23;Junya Ito;29;7500000;KRC Genk;Stade Reims;10000000
+22/23;Armand Lauriente;23;7000000;FC Lorient;Sassuolo;10000000
+22/23;Ruben Vinagre;23;5000000;Wolves;Sporting CP;10000000
+22/23;Kristian Thorstvedt;23;5000000;KRC Genk;Sassuolo;10000000
+22/23;Giulian Biancone;22;4000000;Troyes;Nottm Forest;10000000
+22/23;Jeffinho;23;1500000;Botafogo;Olympique Lyon;10000000
+22/23;Lois Openda;22;7500000;Club Brugge;Lens;9800000
+22/23;Cucho Hernandez;23;9000000;Watford;Columbus;9550000
+22/23;Evander;24;9000000;FC Midtjylland;Portland;9500000
+22/23;Jose Manuel Lopez;21;8000000;Lanus;Palmeiras;9500000
+22/23;Joao Victor;23;8000000;Corinthians;Benfica;9500000
+22/23;Andreas Pereira;26;7500000;Man Utd;Fulham;9500000
+22/23;Raphael Onyedika;21;5000000;FC Midtjylland;Club Brugge;9500000
+22/23;Ahmetcan Kaplan;19;2800000;Trabzonspor;Ajax;9500000
+22/23;Lewis O'Brien;23;3500000;Huddersfield;Nottm Forest;9400000
+22/23;Alphonse Areola;29;8000000;Paris SG;West Ham;9300000
+22/23;Ademola Lookman;24;10000000;RB Leipzig;Atalanta BC;9200000
+22/23;Sasa Lukic;26;13000000;Torino;Fulham;9100000
+22/23;Brandon Soppy;20;5000000;Udinese Calcio;Atalanta BC;9100000
+22/23;Gabriel Slonina;18;3000000;Chicago;Chelsea;9090000
+22/23;Remo Freuler;30;20000000;Atalanta BC;Nottm Forest;9000000
+22/23;Mattias Svanberg;23;15000000;Bologna;VfL Wolfsburg;9000000
+22/23;Marko Grujic;26;12000000;Liverpool;FC Porto;9000000
+22/23;Andreas Schjelderup;18;9000000;Nordsjaelland;Benfica;9000000
+22/23;Jonas Omlin;29;7000000;Montpellier;Bor. M'gladbach;9000000
+22/23;Perr Schuurs;22;7000000;Ajax;Torino;9000000
+22/23;Christopher Wooh;20;3000000;Lens;Rennes;9000000
+22/23;Andrea Colpani;23;2400000;Atalanta BC;Monza;9000000
+22/23;Andrea Cambiaso;22;5000000;Genoa;Juventus;8800000
+22/23;Pedro Porro;22;25000000;Man City;Sporting CP;8770000
+22/23;Josip Juranovic;27;9000000;Celtic;Union Berlin;8550000
+22/23;Antonin Barak;28;12000000;Hellas Verona;Fiorentina;8500000
+22/23;Samuele Ricci;20;12000000;FC Empoli;Torino;8500000
+22/23;Joshua Zirkzee;21;11000000;Bayern Munich;Bologna;8500000
+22/23;Guglielmo Vicario;25;10000000;Cagliari Calcio;FC Empoli;8500000
+22/23;Ritsu Doan;24;8000000;PSV Eindhoven;SC Freiburg;8500000
+22/23;Omar Richards;24;7000000;Bayern Munich;Nottm Forest;8500000
+22/23;Julien Duranville;16;5000000;RSC Anderlecht;Bor. Dortmund;8500000
+22/23;Cengiz Under;24;22000000;AS Roma;Marseille;8400000
+22/23;Billy Gilmour;21;12000000;Chelsea;Brighton;8330000
+22/23;Rolando Mandragora;25;10000000;Juventus;Fiorentina;8199999
+22/23;Jens Petter Hauge;22;8000000;AC Milan;E. Frankfurt;8199999
+22/23;Vedat Muriqi;28;7000000;Lazio;RCD Mallorca;8020000
+22/23;Raul de Tomas;27;25000000;Espanyol;Rayo Vallecano;8000000
+22/23;Arkadiusz Milik;28;16000000;SSC Napoli;Marseille;8000000
+22/23;Duje Caleta-Car;25;16000000;Marseille;Southampton;8000000
+22/23;Azzedine Ounahi;22;15000000;Angers SCO;Marseille;8000000
+22/23;Luiz Henrique;21;12000000;Fluminense;Real Betis;8000000
+22/23;Matheus Henrique;24;11000000;Gremio;Sassuolo;8000000
+22/23;Artur;25;10000000;RB Bragantino;Palmeiras;8000000
+22/23;Geronimo Rulli;30;10000000;Villarreal;Ajax;8000000
+22/23;Jhon Lucumi;24;9000000;KRC Genk;Bologna;8000000
+22/23;Cesar Montes;25;7000000;Monterrey;Espanyol;8000000
+22/23;Alexander Bah;24;7000000;Slavia Prague;Benfica;8000000
+22/23;El Bilal Toure;20;6500000;Stade Reims;UD Almeria;8000000
+22/23;Ismael Kone;20;6000000;Montreal;Watford;8000000
+22/23;Yann Sommer;34;5000000;Bor. M'gladbach;Bayern Munich;8000000
